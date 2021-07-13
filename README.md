@@ -23,13 +23,15 @@
 - [React to Solid - Stream With Ryan Carniato](https://www.youtube.com/watch?v=p8e9ta269x8)
 - [Solid.js - the NEXT React? In-depth Code Analysis](https://www.youtube.com/watch?v=_ne2BsvFBH0)
 - [REACTive Context in Solid.js](https://www.youtube.com/watch?v=j8ANWdE7wfY)
+- [Solid.js - A Fast, Declarative, Compiled Web UI Library - Better than React.js?](https://www.youtube.com/watch?v=P8iGK8zYzns)
 
 
 ## Condensed Thought-pieces (Twitter Threads)
 _coming soon...__
 
 ## Podcasts
-_coming soon...__
+- [The Deep Dive Episode 4: Reactive frontend frameworks](https://www.youtube.com/watch?v=iyY1lT8-ZDA)
+_more coming soon...__
 
 ## Starter Kits, Explorations and Integrations
 - [TailwindCSS Layouts](https://tailwind-layouts.vercel.app/?environment=solid-js)
