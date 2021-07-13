@@ -11,6 +11,11 @@
 - [A few reasons why I love Solid.js](https://dev.to/trusktr/a-few-reasons-why-i-love-solid-js-4036)
 - [The Real Cost of UI Components Revisited](https://dev.to/this-is-learning/the-real-cost-of-ui-components-revisited-4d23)
 - [Solid - The best JavaScript UI library?](https://areknawo.com/solid-the-best-javascript-ui-library/)
+- [How we wrote the Fastest JavaScript UI Framework, Again!](https://levelup.gitconnected.com/how-we-wrote-the-fastest-javascript-ui-framework-again-db097ddd99b6)
+- [The Journey to Isomorphic Rendering Performance](https://indepth.dev/posts/1324/the-journey-to-isomorphic-rendering-performance)
+- [5 Ways SolidJS Differs from Other JS Frameworks](https://dev.to/ryansolid/5-ways-solidjs-differs-from-other-js-frameworks-1g63)
+- [A Hands-on Introduction to Fine-Grained Reactivity](https://dev.to/ryansolid/a-hands-on-introduction-to-fine-grained-reactivity-3ndf)
+- [Building a Reactive Library from Scratch](https://dev.to/ryansolid/building-a-reactive-library-from-scratch-1i0p)
 
 ### Powered by Solid
 - [5 Reasons why we chose to transpile to SolidJS instead of React](https://dev.to/chrisczopp/5-reasons-why-we-chose-to-transpile-to-solidjs-instead-of-react-3pcl)
@@ -24,19 +29,21 @@
 - [Solid.js - the NEXT React? In-depth Code Analysis](https://www.youtube.com/watch?v=_ne2BsvFBH0)
 - [REACTive Context in Solid.js](https://www.youtube.com/watch?v=j8ANWdE7wfY)
 - [Solid.js - A Fast, Declarative, Compiled Web UI Library - Better than React.js?](https://www.youtube.com/watch?v=P8iGK8zYzns)
-
-
-## Condensed Thought-pieces (Twitter Threads)
-_coming soon...__
+- [Solid Javascript UI Framework](https://www.youtube.com/playlist?list=PLtLhzwNMDs1fMi43erQSzXD49Y4p0TniU) (Youtube Playlist)
 
 ## Podcasts
 - [The Deep Dive Episode 4: Reactive frontend frameworks](https://www.youtube.com/watch?v=iyY1lT8-ZDA)
-_more coming soon...__
+
+_more coming soon..._
 
 ## Starter Kits, Explorations and Integrations
 - [TailwindCSS Layouts](https://tailwind-layouts.vercel.app/?environment=solid-js)
 
 ## Projects
-_coming soon...__
+- [Todo MVC](https://github.com/solidjs/solid-todomvc)
+- [Hacker News](https://github.com/solidjs/solid-hackernews)
+- [Realworld](https://github.com/solidjs/solid-realworld)
+
+_more coming soon..._
 
 
