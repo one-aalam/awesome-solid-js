@@ -38,6 +38,11 @@ _more coming soon..._
 
 ## Starter Kits, Explorations and Integrations
 - [TailwindCSS Layouts](https://tailwind-layouts.vercel.app/?environment=solid-js)
+- [Vite + Solid + TailwindCSS Starter](https://github.com/wobsoriano/vite-solid-tailwind-starter)
+- [Solid Starter Kit](https://github.com/one-aalam/solid-starter-kit)
+
+## Libraries
+
 
 ## Projects
 - [Todo MVC](https://github.com/solidjs/solid-todomvc)
