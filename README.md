@@ -1,6 +1,6 @@
 # Awesome Solid.js
 
-## Blogs
+## ✍️ Blogs
 ### The _Why's?_
 - [Introducing the SolidJS UI Library](https://dev.to/ryansolid/introducing-the-solidjs-ui-library-4mck)
 - [SolidJS Official Release: The long road to 1.0](https://dev.to/ryansolid/solidjs-official-release-the-long-road-to-1-0-4ldd)
@@ -24,27 +24,27 @@
 ### The _Why not's?_
 - [5 Places SolidJS is not the Best](https://dev.to/this-is-learning/5-places-solidjs-is-not-the-best-5019)
 
-## Videos/Screencasts/Twitch
+## 📹 Videos/Screencasts/Twitch
 - [React to Solid - Stream With Ryan Carniato](https://www.youtube.com/watch?v=p8e9ta269x8)
 - [Solid.js - the NEXT React? In-depth Code Analysis](https://www.youtube.com/watch?v=_ne2BsvFBH0)
 - [REACTive Context in Solid.js](https://www.youtube.com/watch?v=j8ANWdE7wfY)
 - [Solid.js - A Fast, Declarative, Compiled Web UI Library - Better than React.js?](https://www.youtube.com/watch?v=P8iGK8zYzns)
 - [Solid Javascript UI Framework](https://www.youtube.com/playlist?list=PLtLhzwNMDs1fMi43erQSzXD49Y4p0TniU) (Youtube Playlist)
 
-## Podcasts
+## 🗣️ Podcasts
 - [The Deep Dive Episode 4: Reactive frontend frameworks](https://www.youtube.com/watch?v=iyY1lT8-ZDA)
 
 _more coming soon..._
 
-## Starter Kits, Explorations and Integrations
+## 🏃 Starter Kits, Explorations and Integrations
 - [TailwindCSS Layouts](https://tailwind-layouts.vercel.app/?environment=solid-js)
 - [Vite + Solid + TailwindCSS Starter](https://github.com/wobsoriano/vite-solid-tailwind-starter)
 - [Solid Starter Kit](https://github.com/one-aalam/solid-starter-kit)
 
-## Libraries
+## 📦 Libraries
 
 
-## Projects
+## 📦 Projects
 - [Todo MVC](https://github.com/solidjs/solid-todomvc)
 - [Hacker News](https://github.com/solidjs/solid-hackernews)
 - [Realworld](https://github.com/solidjs/solid-realworld)
