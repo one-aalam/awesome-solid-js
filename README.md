@@ -16,6 +16,7 @@
 - [5 Ways SolidJS Differs from Other JS Frameworks](https://dev.to/ryansolid/5-ways-solidjs-differs-from-other-js-frameworks-1g63)
 - [A Hands-on Introduction to Fine-Grained Reactivity](https://dev.to/ryansolid/a-hands-on-introduction-to-fine-grained-reactivity-3ndf)
 - [Building a Reactive Library from Scratch](https://dev.to/ryansolid/building-a-reactive-library-from-scratch-1i0p)
+- [Building JavaScript Frameworks to Conquer eCommerce](https://dev.to/this-is-learning/building-javascript-frameworks-to-conquer-ecommerce-3glc)
 
 ### Powered by Solid
 - [5 Reasons why we chose to transpile to SolidJS instead of React](https://dev.to/chrisczopp/5-reasons-why-we-chose-to-transpile-to-solidjs-instead-of-react-3pcl)
