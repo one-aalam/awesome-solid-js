@@ -43,7 +43,7 @@ _more coming soon..._
 - [Solid Starter Kit](https://github.com/one-aalam/solid-starter-kit)
 
 ## 📦 Libraries
-
+- [Solid Particles - Particles, confetti, fireworks and more animations](https://github.com/matteobruni/tsparticles/tree/main/components/solid)
 
 ## 📦 Projects
 - [Todo MVC](https://github.com/solidjs/solid-todomvc)
