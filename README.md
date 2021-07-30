@@ -44,6 +44,7 @@ _more coming soon..._
 
 ## 📦 Libraries
 - [Solid Particles - Particles, confetti, fireworks and more animations](https://github.com/matteobruni/tsparticles/tree/main/components/solid)
+- [ESLint for Solid](https://github.com/joshwilsonvu/eslint-plugin-solid)
 
 ## 📦 Projects
 - [Todo MVC](https://github.com/solidjs/solid-todomvc)
