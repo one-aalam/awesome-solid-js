@@ -17,6 +17,7 @@
 - [A Hands-on Introduction to Fine-Grained Reactivity](https://dev.to/ryansolid/a-hands-on-introduction-to-fine-grained-reactivity-3ndf)
 - [Building a Reactive Library from Scratch](https://dev.to/ryansolid/building-a-reactive-library-from-scratch-1i0p)
 - [Building JavaScript Frameworks to Conquer eCommerce](https://dev.to/this-is-learning/building-javascript-frameworks-to-conquer-ecommerce-3glc)
+- [SolidJS creator: JavaScript innovation isn’t slowing down](https://www.infoworld.com/article/3626348/solidjs-creator-javascript-innovation-isnt-slowing-down.html)
 
 ### Powered by Solid
 - [5 Reasons why we chose to transpile to SolidJS instead of React](https://dev.to/chrisczopp/5-reasons-why-we-chose-to-transpile-to-solidjs-instead-of-react-3pcl)
