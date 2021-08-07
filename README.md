@@ -26,6 +26,9 @@
 ### The _Why not's?_
 - [5 Places SolidJS is not the Best](https://dev.to/this-is-learning/5-places-solidjs-is-not-the-best-5019)
 
+### Guides
+- [Solid.js for X developer](https://github.com/teknologi-umum/solidjs-for-x-developer). A brief guide for Vue, Svelte and React developers to Solid.js.
+
 ## 📹 Videos/Screencasts/Twitch
 - [React to Solid - Stream With Ryan Carniato](https://www.youtube.com/watch?v=p8e9ta269x8)
 - [Solid.js - the NEXT React? In-depth Code Analysis](https://www.youtube.com/watch?v=_ne2BsvFBH0)
