@@ -75,6 +75,7 @@
 - [Solid Chart.js](https://github.com/MrFoxPro/solid-chart.js)([NPM](https://www.npmjs.com/package/solid-chart.js))
 - [Solid HeroIcons](https://github.com/amoutonbrady/solid-heroicons)([NPM](https://www.npmjs.com/package/@amoutonbrady/solid-heroicons))
 - [Solid Quill](https://github.com/amoutonbrady/solid-quill)([NPM](https://www.npmjs.com/package/solid-quill))
+- [Lume](https://github.com/lume/element)
 
 ## 📦 Projects
 - [Todo MVC](https://github.com/solidjs/solid-todomvc)
