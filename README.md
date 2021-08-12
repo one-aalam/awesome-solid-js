@@ -57,7 +57,7 @@
 - [Solid Blocks](https://atk.github.io/solid-blocks)
 - [Solid Slider](https://github.com/davedbase/solid-slider)([NPM](https://www.npmjs.com/package/solid-slider))
 - [Solid Virtual Container](https://github.com/minht11/solid-virtual-container)([NPM](https://www.npmjs.com/package/@minht11/solid-virtual-container))
-- [Solid Simple Table](https://github.com/aminya/solid-simple-table)[NPM](https://www.npmjs.com/package/solid-simple-table)
+- [Solid Simple Table](https://github.com/aminya/solid-simple-table)([NPM](https://www.npmjs.com/package/solid-simple-table))
 - [Solid Particles](https://github.com/matteobruni/tsparticles/tree/main/components/solid)
 - [Phosphor Solid](https://www.npmjs.com/package/phosphor-solid)
 - [Solid Form Action](https://github.com/mosheduminer/solid-form-action)
