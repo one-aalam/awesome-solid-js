@@ -35,24 +35,45 @@
 - [REACTive Context in Solid.js](https://www.youtube.com/watch?v=j8ANWdE7wfY)
 - [Solid.js - A Fast, Declarative, Compiled Web UI Library - Better than React.js?](https://www.youtube.com/watch?v=P8iGK8zYzns)
 - [Solid Javascript UI Framework](https://www.youtube.com/playlist?list=PLtLhzwNMDs1fMi43erQSzXD49Y4p0TniU) (Youtube Playlist)
+- [Hottest React Competitor](https://www.youtube.com/watch?v=StLjM0Ki6iA)
+- [React vs SolidJS, Fight!](https://www.youtube.com/watch?v=OqcHoLWyyIw)
 
 ## 🗣️ Podcasts
 - [The Deep Dive Episode 4: Reactive frontend frameworks](https://www.youtube.com/watch?v=iyY1lT8-ZDA)
 - [React vs Svelte vs Solid & MicroFrontends | Ryan Carniato](https://show.nikoskatsikanis.com/episodes/ryan-carniato) On the hard choices all companies are facing right now with their websites, especially with the performance
+- [Ryan Carniato on SolidJS](https://runtimepodcast.com/#7)Discussion on some of the similarities and differences between different UI frameworks, and talk about what things SolidJS has taken from react __The Runtime Podcast__
 
 ## 🏃 Starter Kits, Explorations and Integrations
 - [TailwindCSS Layouts](https://tailwind-layouts.vercel.app/?environment=solid-js)
 - [Vite + Solid + TailwindCSS Starter](https://github.com/wobsoriano/vite-solid-tailwind-starter)
 - [Solid Starter Kit](https://github.com/one-aalam/solid-starter-kit)
+- [Roll-up preset for Solid Libraries](https://github.com/amoutonbrady/rollup-preset-solid)
+- [ESBuild Solid Plugin](https://github.com/amoutonbrady/esbuild-plugin-solid)[NPM](https://www.npmjs.com/package/esbuild-plugin-solid)
 
 ## 📦 Libraries
 - [Solid Particles - Particles, confetti, fireworks and more animations](https://github.com/matteobruni/tsparticles/tree/main/components/solid)
 - [ESLint for Solid](https://github.com/joshwilsonvu/eslint-plugin-solid)
+- [Solid SVG](https://github.com/jfgodoy/vite-plugin-solid-svg)[NPM](https://www.npmjs.com/package/vite-plugin-solid-svg)
+- [Solid Blocks](https://atk.github.io/solid-blocks)
+- [Solid Slider](https://github.com/davedbase/solid-slider)[NPM](https://www.npmjs.com/package/solid-slider)
+- [Solid Virtual Container](https://github.com/minht11/solid-virtual-container)[NPM](https://www.npmjs.com/package/@minht11/solid-virtual-container)
+- [Solid Simple Table](https://github.com/aminya/solid-simple-table)[NPM](https://www.npmjs.com/package/solid-simple-table)
+- [Solid Particles](https://github.com/matteobruni/tsparticles/tree/main/components/solid)
+- [Phosphor Solid](https://www.npmjs.com/package/phosphor-solid)
+- [Solid Form Action](https://github.com/mosheduminer/solid-form-action)
+- [Solid Typefu Router5](https://github.com/mikeplus64/solid-typefu-router5)
+- [Solid i18n](https://github.com/amoutonbrady/solid-i18n)[NPM](https://www.npmjs.com/package/@amoutonbrady/solid-i18n)
+- [Solid Chart.js](https://github.com/MrFoxPro/solid-chart.js)[NPM](https://www.npmjs.com/package/solid-chart.js)
+- [Solid HeroIcons](https://github.com/amoutonbrady/solid-heroicons)[NPM](https://www.npmjs.com/package/@amoutonbrady/solid-heroicons)
+- [Solid Quill](https://github.com/amoutonbrady/solid-quill)[NPM](https://www.npmjs.com/package/solid-quill)
 
 ## 📦 Projects
 - [Todo MVC](https://github.com/solidjs/solid-todomvc)
 - [Hacker News](https://github.com/solidjs/solid-hackernews)
 - [Realworld](https://github.com/solidjs/solid-realworld)
+- [Whiteboard](https://github.com/wobsoriano/solid-whiteboard)
+- [Kauchicups](https://gitlab.com/_mike/kuachicups/-/tree/master)
+- [Solid Playground](https://github.com/solidjs/solid-playground)
 
 _more coming soon..._
 
