@@ -36,6 +36,7 @@
 - [5 Places SolidJS is not the Best](https://dev.to/this-is-learning/5-places-solidjs-is-not-the-best-5019)
 
 ### Guides
+- [Learn Solid](https://www.solidjs.com/guide#learn-solid)(Official)
 - [Solid.js for X developer](https://github.com/teknologi-umum/solidjs-for-x-developer). A brief guide for Vue, Svelte and React developers to Solid.js.
 
 ## 📹 Videos/Screencasts/Twitch
