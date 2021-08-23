@@ -63,18 +63,22 @@
 - [Hottest React Competitor](https://www.youtube.com/watch?v=StLjM0Ki6iA)
 - [React vs SolidJS, Fight!](https://www.youtube.com/watch?v=OqcHoLWyyIw)
 
-### 🏃 Examples, Starter Kits, Explorations and Integrations
+### 🏃 Examples and Starter Kits
+#### Official Examples
 - [Official Examples](https://www.solidjs.com/examples)
 - [Todo MVC](https://github.com/solidjs/solid-todomvc)
 - [Hacker News](https://github.com/solidjs/solid-hackernews)
 - [Realworld](https://github.com/solidjs/solid-realworld)
+
+#### Community Examples
 - [Whiteboard](https://github.com/wobsoriano/solid-whiteboard)
 - [Kauchicups](https://gitlab.com/_mike/kuachicups/-/tree/master)
 - [TailwindCSS Layouts](https://tailwind-layouts.vercel.app/?environment=solid-js)
+
+#### Starter Kits
+- [Solid Templates](https://github.com/solidjs/templates)(official)
 - [Vite + Solid + TailwindCSS Starter](https://github.com/wobsoriano/vite-solid-tailwind-starter)
 - [Solid Starter Kit](https://github.com/one-aalam/solid-starter-kit)
-- [Roll-up preset for Solid Libraries](https://github.com/amoutonbrady/rollup-preset-solid)
-- [ESBuild Solid Plugin](https://github.com/amoutonbrady/esbuild-plugin-solid)([NPM](https://www.npmjs.com/package/esbuild-plugin-solid))
 
 ### Tutorials
 - [Learn Solid](https://www.solidjs.com/guide#learn-solid)(Official)
@@ -160,6 +164,7 @@
 - [Solid Virtual Container](https://github.com/minht11/solid-virtual-container)([NPM](https://www.npmjs.com/package/@minht11/solid-virtual-container))
 
 #### Miscellaneous
+- [Solid Transition Group](https://github.com/solidjs/solid-transition-group)(official)
 - [Solid Particles - Particles, confetti, fireworks and more animations](https://github.com/matteobruni/tsparticles/tree/main/components/solid)
 - [Phosphor Solid](https://www.npmjs.com/package/phosphor-solid)
 
@@ -175,7 +180,11 @@
 - [Solid Form Action](https://github.com/mosheduminer/solid-form-action)
 
 ### Routing
+- [Solid App Router](https://github.com/solidjs/solid-app-router)(official)
 - [Solid Typefu Router5](https://github.com/mikeplus64/solid-typefu-router5)
+
+### SEO
+- [Solid Meta](https://github.com/solidjs/solid-meta)(official)
 
 ### Translation
 - [Solid i18n](https://github.com/amoutonbrady/solid-i18n)([NPM](https://www.npmjs.com/package/@amoutonbrady/solid-i18n))
@@ -188,8 +197,15 @@
 - [Solid Blocks](https://atk.github.io/solid-blocks)
 - [Lume](https://github.com/lume/element)
 
+### Testing
+- [Solid Jest](https://github.com/solidjs/solid-jest)(official)
+- [Solid Testing Library](https://github.com/solidjs/solid-testing-library)(official)
+
 ### DX
+- [Solid Refresh (HMR)](https://github.com/solidjs/solid-refresh)(official)
 - [ESLint for Solid](https://github.com/joshwilsonvu/eslint-plugin-solid)
+- [Roll-up preset for Solid Libraries](https://github.com/amoutonbrady/rollup-preset-solid)
+- [ESBuild Solid Plugin](https://github.com/amoutonbrady/esbuild-plugin-solid)([NPM](https://www.npmjs.com/package/esbuild-plugin-solid))
 
 
 _more coming soon..._
