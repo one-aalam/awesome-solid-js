@@ -22,8 +22,11 @@
 - [Components & Libraries](#-components--libraries)
   - [UI Components](#ui-components)
   - [Forms](#form)
-  - [Routing & State Management](#app-mechanics)
+  - [Routing](#routing)
+  - [Translation](#translation)
+  - [State Management](#state-management)
   - [Frameworks & Component Libraries](#frameworks--component-libraries)
+  - [DX](#dx)
 
 ## Resources
 ### Official Resources
@@ -171,23 +174,22 @@
 #### Helpers
 - [Solid Form Action](https://github.com/mosheduminer/solid-form-action)
 
-- [ESLint for Solid](https://github.com/joshwilsonvu/eslint-plugin-solid)
-
-### App Mechanics
-
-#### Routing
+### Routing
 - [Solid Typefu Router5](https://github.com/mikeplus64/solid-typefu-router5)
 
-#### i18n
+### Translation
 - [Solid i18n](https://github.com/amoutonbrady/solid-i18n)([NPM](https://www.npmjs.com/package/@amoutonbrady/solid-i18n))
 
-#### State Management
+### State Management
 - [Solid Zustand](https://github.com/wobsoriano/solid-zustand)
 
 ### Frameworks & Component Libraries
 
 - [Solid Blocks](https://atk.github.io/solid-blocks)
 - [Lume](https://github.com/lume/element)
+
+### DX
+- [ESLint for Solid](https://github.com/joshwilsonvu/eslint-plugin-solid)
 
 
 _more coming soon..._
