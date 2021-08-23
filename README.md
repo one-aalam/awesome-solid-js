@@ -14,11 +14,16 @@
   - [External Resources](#external-resources)
   - [Community](#community)
   - [Conferences](#conferences)
-  - [Podcasts](#podcasts)
-  - [Videos/Screencasts/Twitch](#youtube-channels)
-  - [Examples, Starter Kits, Explorations and Integrations](#official-examples)
+  - [Podcasts](#%EF%B8%8F-podcasts)
+  - [Videos/Screencasts/Twitch](#-videosscreencaststwitch)
+  - [Examples, Starter Kits, Explorations and Integrations](#-examples-starter-kits-explorations-and-integrations)
   - [Tutorials](#tutorials)
-  - [Blog Posts](#blog-posts)
+  - [Blog Posts](#%EF%B8%8F-blog-posts)
+- [Components & Libraries](#-components--libraries)
+  - [UI Components](#ui-components)
+  - [Forms](#form)
+  - [Routing & State Management](#app-mechanics)
+  - [Frameworks & Component Libraries](#frameworks--component-libraries)
 
 ## Resources
 ### Official Resources
