@@ -29,6 +29,7 @@
   - [Frameworks & Component Libraries](#frameworks--component-libraries)
   - [Testing](#testing)
   - [DX](#dx)
+  - [Works with Solid](#works-with-solid)
 
 ## Resources
 ### Official Resources
@@ -208,6 +209,10 @@
 - [ESLint for Solid](https://github.com/joshwilsonvu/eslint-plugin-solid)
 - [Roll-up preset for Solid Libraries](https://github.com/amoutonbrady/rollup-preset-solid)
 - [ESBuild Solid Plugin](https://github.com/amoutonbrady/esbuild-plugin-solid)([NPM](https://www.npmjs.com/package/esbuild-plugin-solid))
+
+### Works with Solid
+- [Astro](https://astro.build/)
+- [Mitosis](https://github.com/BuilderIO/mitosis)([playground](https://mitosis.builder.io/?outputTab=solid))
 
 
 _more coming soon..._
