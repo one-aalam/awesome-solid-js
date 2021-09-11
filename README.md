@@ -147,6 +147,8 @@
 <!-- #### Overlay -->
 
 #### Icons
+- [Unplugin Icons](https://github.com/antfu/unplugin-icons)([NPM](https://www.npmjs.com/package/unplugin-icons))
+- [Solid Icons](https://github.com/x64Bits/solid-icons)([NPM](https://www.npmjs.com/package/solid-icons))
 - [Solid HeroIcons](https://github.com/amoutonbrady/solid-heroicons)([NPM](https://www.npmjs.com/package/@amoutonbrady/solid-heroicons))
 - [Solid SVG](https://github.com/jfgodoy/vite-plugin-solid-svg)([NPM](https://www.npmjs.com/package/vite-plugin-solid-svg))
 
