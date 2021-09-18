@@ -65,6 +65,7 @@
 - [Solid Javascript UI Framework](https://www.youtube.com/playlist?list=PLtLhzwNMDs1fMi43erQSzXD49Y4p0TniU) (Youtube Playlist)
 - [Hottest React Competitor](https://www.youtube.com/watch?v=StLjM0Ki6iA)
 - [React vs SolidJS, Fight!](https://www.youtube.com/watch?v=OqcHoLWyyIw)
+- [First look at DOM Expressions](https://www.youtube.com/watch?v=jnZmG4hyNas)
 
 ### 🏃 Examples and Starter Kits
 #### Official Examples
