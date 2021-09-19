@@ -208,10 +208,11 @@
 - [Solid Testing Library](https://github.com/solidjs/solid-testing-library)(official)
 
 ### DX
-- [Solid Refresh (HMR)](https://github.com/solidjs/solid-refresh)(official)
-- [ESLint for Solid](https://github.com/joshwilsonvu/eslint-plugin-solid)
-- [Roll-up preset for Solid Libraries](https://github.com/amoutonbrady/rollup-preset-solid)
-- [ESBuild Solid Plugin](https://github.com/amoutonbrady/esbuild-plugin-solid)([NPM](https://www.npmjs.com/package/esbuild-plugin-solid))
+- [Solid Refresh (HMR)](https://github.com/solidjs/solid-refresh)(official) - HMR for Solid for various bundlers
+- [ESLint for Solid](https://github.com/joshwilsonvu/eslint-plugin-solid) - Solid-specific linting rules for ESLint
+- [Roll-up preset for Solid Libraries](https://github.com/amoutonbrady/rollup-preset-solid) - Preset for rollup to bundle your solid libraries with rollup
+- [ESBuild Solid Plugin](https://github.com/amoutonbrady/esbuild-plugin-solid)([NPM](https://www.npmjs.com/package/esbuild-plugin-solid)) - Plugin to compile solid-js jsx components with ESbuild.
+- [Babel Solid Plugin - Labels](https://github.com/LXSMNSYC/babel-plugin-solid-labels) - Simple, reactive labels for SolidJS
 
 ### Works with Solid
 - [Astro](https://astro.build/)
