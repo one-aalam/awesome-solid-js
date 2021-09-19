@@ -216,7 +216,7 @@
 ### Works with Solid
 - [Astro](https://astro.build/)
 - [Mitosis](https://github.com/BuilderIO/mitosis)([playground](https://mitosis.builder.io/?outputTab=solid))
-- [Vite Plugin - SSR](https://vite-plugin-ssr.com/)((Solid Example)[https://github.com/brillout/vite-plugin-ssr/tree/master/examples/solid])
+- [Vite Plugin - SSR](https://vite-plugin-ssr.com/)([Solid Example](https://github.com/brillout/vite-plugin-ssr/tree/master/examples/solid))
 
 
 _more coming soon..._
