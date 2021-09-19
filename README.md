@@ -65,7 +65,12 @@
 - [Solid Javascript UI Framework](https://www.youtube.com/playlist?list=PLtLhzwNMDs1fMi43erQSzXD49Y4p0TniU) (Youtube Playlist)
 - [Hottest React Competitor](https://www.youtube.com/watch?v=StLjM0Ki6iA)
 - [React vs SolidJS, Fight!](https://www.youtube.com/watch?v=OqcHoLWyyIw)
+
+#### Ryan Streams
+Ryan's in-depth streams on all things Solid & reactivity
+- [Fine-Grained Reactivity](https://www.youtube.com/watch?v=b9e7VXs_A4s)
 - [First look at DOM Expressions](https://www.youtube.com/watch?v=jnZmG4hyNas)
+- [Streaming SolidJS - Context, Async, & Suspense](https://www.youtube.com/watch?v=8Ou6domKfU4)
 
 ### 🏃 Examples and Starter Kits
 #### Official Examples
@@ -109,6 +114,7 @@
 - [Building a Reactive Library from Scratch](https://dev.to/ryansolid/building-a-reactive-library-from-scratch-1i0p)
 - [Building JavaScript Frameworks to Conquer eCommerce](https://dev.to/this-is-learning/building-javascript-frameworks-to-conquer-ecommerce-3glc)
 - [SolidJS creator: JavaScript innovation isn’t slowing down](https://www.infoworld.com/article/3626348/solidjs-creator-javascript-innovation-isnt-slowing-down.html)
+- [JavaScript vs JavaScript. Fight!](https://dev.to/this-is-learning/javascript-vs-javascript-fight-53fa)
 
 #### Powered by Solid
 - [5 Reasons why we chose to transpile to SolidJS instead of React](https://dev.to/chrisczopp/5-reasons-why-we-chose-to-transpile-to-solidjs-instead-of-react-3pcl)
