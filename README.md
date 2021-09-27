@@ -158,11 +158,16 @@ Ryan's in-depth streams on all things Solid & reactivity
 - [Solid Icons](https://github.com/x64Bits/solid-icons)([NPM](https://www.npmjs.com/package/solid-icons))
 - [Solid HeroIcons](https://github.com/amoutonbrady/solid-heroicons)([NPM](https://www.npmjs.com/package/@amoutonbrady/solid-heroicons))
 - [Solid SVG](https://github.com/jfgodoy/vite-plugin-solid-svg)([NPM](https://www.npmjs.com/package/vite-plugin-solid-svg))
-
+- [Phosphor Solid](https://www.npmjs.com/package/phosphor-solid)
+- 
 <!-- #### Menu -->
 <!-- #### Carousel -->
 #### Charts
 - [Solid Chart.js](https://github.com/MrFoxPro/solid-chart.js)([NPM](https://www.npmjs.com/package/solid-chart.js))
+
+#### Animation
+- [Solid Transition Group](https://github.com/solidjs/solid-transition-group)(official)
+- [Solid Particles - Particles, confetti, fireworks and more animations](https://github.com/matteobruni/tsparticles/tree/main/components/solid)
 
 <!-- #### Calendar -->
 <!-- #### Map -->
@@ -174,11 +179,6 @@ Ryan's in-depth streams on all things Solid & reactivity
 <!-- #### Search -->
 #### List
 - [Solid Virtual Container](https://github.com/minht11/solid-virtual-container)([NPM](https://www.npmjs.com/package/@minht11/solid-virtual-container))
-
-#### Miscellaneous
-- [Solid Transition Group](https://github.com/solidjs/solid-transition-group)(official)
-- [Solid Particles - Particles, confetti, fireworks and more animations](https://github.com/matteobruni/tsparticles/tree/main/components/solid)
-- [Phosphor Solid](https://www.npmjs.com/package/phosphor-solid)
 
 #### Slider
 - [Solid Slider](https://github.com/davedbase/solid-slider)([NPM](https://www.npmjs.com/package/solid-slider))
