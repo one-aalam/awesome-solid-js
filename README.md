@@ -87,7 +87,7 @@ Ryan's in-depth streams on all things Solid & reactivity
 #### Starter Kits
 - [Solid Templates](https://github.com/solidjs/templates)(official)
 - [Vite + Solid + TailwindCSS Starter](https://github.com/wobsoriano/vite-solid-tailwind-starter)
-- [Solid Starter Kit](https://github.com/one-aalam/solid-starter-kit)
+- [Solid + Supabase Starter Kit](https://github.com/one-aalam/solid-starter-kit) - Solid + Supabase Starter Kit is an opinionated boilerplate, with all the bells and whistles you want ready, up and running when starting a SolidJS project with Supabase
 
 ### Tutorials
 - [Learn Solid](https://www.solidjs.com/guide#learn-solid)(Official)
