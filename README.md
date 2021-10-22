@@ -151,7 +151,9 @@ Ryan's in-depth streams on all things Solid & reactivity
 <!-- #### Notification -->
 <!-- #### Loader -->
 <!-- #### Tooltip -->
-<!-- #### Overlay -->
+#### Overlay
+- [Solid Popper](https://github.com/lxsmnsyc/solid-popper)
+- [Solid Dismiss](https://github.com/aquaductape/solid-dismiss)
 
 #### Icons
 - [Unplugin Icons](https://github.com/antfu/unplugin-icons)([NPM](https://www.npmjs.com/package/unplugin-icons))
@@ -161,7 +163,9 @@ Ryan's in-depth streams on all things Solid & reactivity
 - [Phosphor Solid](https://www.npmjs.com/package/phosphor-solid)
 
 <!-- #### Menu -->
-<!-- #### Carousel -->
+#### Carousel
+- [Solid Slider](https://github.com/davedbase/solid-slider)
+
 #### Charts
 - [Solid Chart.js](https://github.com/MrFoxPro/solid-chart.js)([NPM](https://www.npmjs.com/package/solid-chart.js))
 
@@ -172,7 +176,8 @@ Ryan's in-depth streams on all things Solid & reactivity
 <!-- #### Calendar -->
 <!-- #### Map -->
 <!-- #### Audio / Video -->
-<!-- #### Markdown -->
+#### Markdown
+- [Solid Markdown](https://github.com/andi23rosca/solid-markdown)
 <!-- #### PDF -->
 <!-- #### Tree -->
 <!-- #### Graph -->
@@ -187,9 +192,11 @@ Ryan's in-depth streams on all things Solid & reactivity
 
 #### Rich-Text Editor
 - [Solid Quill](https://github.com/amoutonbrady/solid-quill)([NPM](https://www.npmjs.com/package/solid-quill))
+- [TipTap Solid](https://github.com/andi23rosca/tiptap-solid)
 
 #### Helpers
 - [Solid Form Action](https://github.com/mosheduminer/solid-form-action)
+- [Solid Create Form](https://github.com/SanichKotikov/solid-create-form)
 
 ### Routing
 - [Solid App Router](https://github.com/solidjs/solid-app-router)(official)
@@ -224,6 +231,9 @@ Ryan's in-depth streams on all things Solid & reactivity
 - [Astro](https://astro.build/)
 - [Mitosis](https://github.com/BuilderIO/mitosis)([playground](https://mitosis.builder.io/?outputTab=solid))
 - [Vite Plugin - SSR](https://vite-plugin-ssr.com/)([Solid Example](https://github.com/brillout/vite-plugin-ssr/tree/master/examples/solid))
+
+### Misc.
+- [Solid Giphy](https://github.com/lxsmnsyc/solid-giphy)
 
 
 _more coming soon..._
