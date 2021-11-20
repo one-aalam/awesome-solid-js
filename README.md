@@ -202,6 +202,7 @@ Ryan's in-depth streams on all things Solid & reactivity
 ### Routing
 - [Solid App Router](https://github.com/solidjs/solid-app-router)(official)
 - [Solid Typefu Router5](https://github.com/mikeplus64/solid-typefu-router5)
+- [solid-tiny-router](https://github.com/LXSMNSYC/solid-tiny-router)
 
 ### SEO
 - [Solid Meta](https://github.com/solidjs/solid-meta)(official)
@@ -216,10 +217,12 @@ Ryan's in-depth streams on all things Solid & reactivity
 
 - [Solid Blocks](https://atk.github.io/solid-blocks)
 - [Lume](https://github.com/lume/element)
+- [Solid Headless](https://github.com/LXSMNSYC/solid-headless)
 
 ### Testing
 - [Solid Jest](https://github.com/solidjs/solid-jest)(official)
 - [Solid Testing Library](https://github.com/solidjs/solid-testing-library)(official)
+- [solid-register](https://github.com/atk/solid-register)
 
 ### DX
 - [Solid Refresh (HMR)](https://github.com/solidjs/solid-refresh)(official) - HMR for Solid for various bundlers
