@@ -212,6 +212,7 @@ Ryan's in-depth streams on all things Solid & reactivity
 
 ### State Management
 - [Solid Zustand](https://github.com/wobsoriano/solid-zustand)
+- [Solid Nanostores](https://github.com/nanostores/solid)
 
 ### Frameworks & Component Libraries
 
