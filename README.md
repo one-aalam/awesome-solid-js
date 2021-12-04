@@ -178,7 +178,10 @@ Ryan's in-depth streams on all things Solid & reactivity
 <!-- #### Map -->
 <!-- #### Audio / Video -->
 #### Markdown
-- [Solid Markdown](https://github.com/andi23rosca/solid-markdown)
+- [Solid Markdown](https://github.com/andi23rosca/solid-markdown) - Render Markdown as Solid components
+
+#### Drag and Drop
+- [Solid DnD](https://solid-dnd.com/)
 <!-- #### PDF -->
 <!-- #### Tree -->
 <!-- #### Graph -->
@@ -194,6 +197,7 @@ Ryan's in-depth streams on all things Solid & reactivity
 #### Rich-Text Editor
 - [Solid Quill](https://github.com/amoutonbrady/solid-quill)([NPM](https://www.npmjs.com/package/solid-quill))
 - [TipTap Solid](https://github.com/andi23rosca/tiptap-solid)
+- [Slate Solid](https://github.com/poudels14/slate-solid)
 
 #### Helpers
 - [Solid Form Action](https://github.com/mosheduminer/solid-form-action)
@@ -224,10 +228,16 @@ Ryan's in-depth streams on all things Solid & reactivity
 ### Re-usable behavioral code (like React hooks, or Vue composables for SolidJS)
 - [Solid Primitives](https://github.com/davedbase/solid-primitives)
 
+### Routing
+- [Solid Tiny Router](https://github.com/LXSMNSYC/solid-tiny-router) - Tiny routing library for SolidJS
+
 ### Testing
 - [Solid Jest](https://github.com/solidjs/solid-jest)(official)
 - [Solid Testing Library](https://github.com/solidjs/solid-testing-library)(official)
 - [solid-register](https://github.com/atk/solid-register)
+
+### i18n
+- [Solid i18n](https://github.com/SanichKotikov/solid-i18n) - Tiny internationalization library for SolidJS
 
 ### DX
 - [Solid Refresh (HMR)](https://github.com/solidjs/solid-refresh)(official) - HMR for Solid for various bundlers
@@ -235,6 +245,11 @@ Ryan's in-depth streams on all things Solid & reactivity
 - [Roll-up preset for Solid Libraries](https://github.com/amoutonbrady/rollup-preset-solid) - Preset for rollup to bundle your solid libraries with rollup
 - [ESBuild Solid Plugin](https://github.com/amoutonbrady/esbuild-plugin-solid)([NPM](https://www.npmjs.com/package/esbuild-plugin-solid)) - Plugin to compile solid-js jsx components with ESbuild.
 - [Babel Solid Plugin - Labels](https://github.com/LXSMNSYC/babel-plugin-solid-labels) - Simple, reactive labels for SolidJS
+- [Babel Solid Plugin - Understrcuture](https://github.com/orenelbaum/babel-plugin-solid-undestructure) - Destructure component props without losing reactivity
+- [Solid SFC(Experimental)](https://github.com/LXSMNSYC/solid-sfc) - Experimental SFC compiler for SolidJS
+
+### SSR
+- [Rigidity](https://github.com/LXSMNSYC/rigidity) - An SSR framework for SolidJS
 
 ### Works with Solid
 - [Astro](https://astro.build/)
@@ -243,6 +258,7 @@ Ryan's in-depth streams on all things Solid & reactivity
 
 ### Misc.
 - [Solid Giphy](https://github.com/lxsmnsyc/solid-giphy)
+- [Solid Emoji Picker](https://github.com/LXSMNSYC/solid-emoji-picker) - Unstyled emoji picker for SolidJS
 
 
 _more coming soon..._
