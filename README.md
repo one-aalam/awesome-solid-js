@@ -218,6 +218,10 @@ Ryan's in-depth streams on all things Solid & reactivity
 - [Solid Blocks](https://atk.github.io/solid-blocks)
 - [Lume](https://github.com/lume/element)
 - [Solid Headless](https://github.com/LXSMNSYC/solid-headless)
+- [Solid Bootstrap](https://solid-libs.github.io/solid-bootstrap/) - The most popular front-end framework, re-built for SolidJS
+
+### Re-usable behavioral code (like React hooks, or Vue composables for SolidJS)
+- [Solid Primitives](https://github.com/davedbase/solid-primitives)
 
 ### Testing
 - [Solid Jest](https://github.com/solidjs/solid-jest)(official)
