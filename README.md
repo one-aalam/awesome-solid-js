@@ -184,6 +184,7 @@ Ryan's in-depth streams on all things Solid & reactivity
 <!-- #### Audio / Video -->
 #### Markdown
 - [Solid Markdown](https://github.com/andi23rosca/solid-markdown) - Render Markdown as Solid components
+- [Solid MDX](https://github.com/high1/solid-jsx)
 
 #### Drag and Drop
 - [Solid DnD](https://solid-dnd.com/)
