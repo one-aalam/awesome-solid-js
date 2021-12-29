@@ -199,6 +199,7 @@ Ryan's in-depth streams on all things Solid & reactivity
 - [Solid Slider](https://github.com/davedbase/solid-slider)([NPM](https://www.npmjs.com/package/solid-slider))
 
 ### Form
+- [Felte](https://github.com/pablo-abc/felte)
 
 #### Rich-Text Editor
 - [Solid Quill](https://github.com/amoutonbrady/solid-quill)([NPM](https://www.npmjs.com/package/solid-quill))
@@ -233,6 +234,9 @@ Ryan's in-depth streams on all things Solid & reactivity
 
 ### Re-usable behavioral code (like React hooks, or Vue composables for SolidJS)
 - [Solid Primitives](https://github.com/davedbase/solid-primitives)
+
+### Querying/GraphQL
+- [Solid URQL](https://github.com/Acidic9/solid-urql)
 
 ### Testing
 - [Solid Jest](https://github.com/solidjs/solid-jest)(official)
