@@ -65,6 +65,7 @@
 - [Solid Javascript UI Framework](https://www.youtube.com/playlist?list=PLtLhzwNMDs1fMi43erQSzXD49Y4p0TniU) (Youtube Playlist)
 - [Hottest React Competitor](https://www.youtube.com/watch?v=StLjM0Ki6iA)
 - [React vs SolidJS, Fight!](https://www.youtube.com/watch?v=OqcHoLWyyIw)
+- [Let's Learn SolidJS](https://www.youtube.com/watch?v=ZZ-a7B761Ds)
 
 #### Ryan Streams
 Ryan's in-depth streams on all things Solid & reactivity
