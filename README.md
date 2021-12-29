@@ -182,6 +182,7 @@ Ryan's in-depth streams on all things Solid & reactivity
 
 #### Drag and Drop
 - [Solid DnD](https://solid-dnd.com/)
+- [Solid DND Directive](https://github.com/isaacHagoel/solid-dnd-directive)
 <!-- #### PDF -->
 <!-- #### Tree -->
 <!-- #### Graph -->
@@ -206,7 +207,7 @@ Ryan's in-depth streams on all things Solid & reactivity
 ### Routing
 - [Solid App Router](https://github.com/solidjs/solid-app-router)(official)
 - [Solid Typefu Router5](https://github.com/mikeplus64/solid-typefu-router5)
-- [solid-tiny-router](https://github.com/LXSMNSYC/solid-tiny-router)
+- [Solid Tiny Router](https://github.com/LXSMNSYC/solid-tiny-router) - Tiny routing library for SolidJS
 
 ### SEO
 - [Solid Meta](https://github.com/solidjs/solid-meta)(official)
@@ -228,9 +229,6 @@ Ryan's in-depth streams on all things Solid & reactivity
 ### Re-usable behavioral code (like React hooks, or Vue composables for SolidJS)
 - [Solid Primitives](https://github.com/davedbase/solid-primitives)
 
-### Routing
-- [Solid Tiny Router](https://github.com/LXSMNSYC/solid-tiny-router) - Tiny routing library for SolidJS
-
 ### Testing
 - [Solid Jest](https://github.com/solidjs/solid-jest)(official)
 - [Solid Testing Library](https://github.com/solidjs/solid-testing-library)(official)
@@ -249,6 +247,7 @@ Ryan's in-depth streams on all things Solid & reactivity
 - [Solid SFC(Experimental)](https://github.com/LXSMNSYC/solid-sfc) - Experimental SFC compiler for SolidJS
 
 ### SSR
+- [Solid Start](https://github.com/solidjs/solid-start) - Official meta framework for SolidJS
 - [Rigidity](https://github.com/LXSMNSYC/rigidity) - An SSR framework for SolidJS
 
 ### Works with Solid
