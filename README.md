@@ -72,6 +72,10 @@ Ryan's in-depth streams on all things Solid & reactivity
 - [Fine-Grained Reactivity](https://www.youtube.com/watch?v=b9e7VXs_A4s)
 - [First look at DOM Expressions](https://www.youtube.com/watch?v=jnZmG4hyNas)
 - [Streaming SolidJS - Context, Async, & Suspense](https://www.youtube.com/watch?v=8Ou6domKfU4)
+- [Streaming SolidJS - Server Rendering](https://www.youtube.com/watch?v=0zadjVUV7zM)
+- [Streaming SolidJS: Routing](https://www.youtube.com/watch?v=YxroH_MXuhw)
+- [Streaming SolidJS: Concurrent Rendering without a Virtual DOM](https://www.youtube.com/watch?v=Hdc5QqPfFH8)
+- [Streaming HTML, Solid 1.3, and More](https://www.youtube.com/watch?v=8hlo9uPrpr4)
 
 ### 🏃 Examples and Starter Kits
 #### Official Examples
