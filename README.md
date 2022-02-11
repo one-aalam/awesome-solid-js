@@ -159,6 +159,7 @@ Ryan's in-depth streams on all things Solid & reactivity
 #### Overlay
 - [Solid Popper](https://github.com/lxsmnsyc/solid-popper)
 - [Solid Dismiss](https://github.com/aquaductape/solid-dismiss)
+- [Solid Ninja Keys](https://github.com/wobsoriano/solid-ninja-keys)
 
 #### Icons
 - [Unplugin Icons](https://github.com/antfu/unplugin-icons)([NPM](https://www.npmjs.com/package/unplugin-icons))
@@ -173,6 +174,7 @@ Ryan's in-depth streams on all things Solid & reactivity
 
 #### Charts
 - [Solid Chart.js](https://github.com/MrFoxPro/solid-chart.js)([NPM](https://www.npmjs.com/package/solid-chart.js))
+- [Solid ApexCharts](https://github.com/wobsoriano/solid-apexcharts)
 
 #### Animation
 - [Solid Transition Group](https://github.com/solidjs/solid-transition-group)(official)
@@ -268,6 +270,7 @@ Ryan's in-depth streams on all things Solid & reactivity
 ### Misc.
 - [Solid Giphy](https://github.com/lxsmnsyc/solid-giphy)
 - [Solid Emoji Picker](https://github.com/LXSMNSYC/solid-emoji-picker) - Unstyled emoji picker for SolidJS
+- [Solid Firebase](https://github.com/wobsoriano/solid-firebase/)
 
 
 _more coming soon..._
