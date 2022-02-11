@@ -159,6 +159,7 @@ Ryan's in-depth streams on all things Solid & reactivity
 #### Overlay
 - [Solid Popper](https://github.com/lxsmnsyc/solid-popper)
 - [Solid Dismiss](https://github.com/aquaductape/solid-dismiss)
+- [Solid Ninja Keys](https://github.com/wobsoriano/solid-ninja-keys)
 
 #### Icons
 - [Unplugin Icons](https://github.com/antfu/unplugin-icons)([NPM](https://www.npmjs.com/package/unplugin-icons))
