@@ -173,6 +173,7 @@ Ryan's in-depth streams on all things Solid & reactivity
 
 #### Charts
 - [Solid Chart.js](https://github.com/MrFoxPro/solid-chart.js)([NPM](https://www.npmjs.com/package/solid-chart.js))
+- [Solid ApexCharts](https://github.com/wobsoriano/solid-apexcharts)
 
 #### Animation
 - [Solid Transition Group](https://github.com/solidjs/solid-transition-group)(official)
