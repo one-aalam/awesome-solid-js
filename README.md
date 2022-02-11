@@ -270,6 +270,7 @@ Ryan's in-depth streams on all things Solid & reactivity
 ### Misc.
 - [Solid Giphy](https://github.com/lxsmnsyc/solid-giphy)
 - [Solid Emoji Picker](https://github.com/LXSMNSYC/solid-emoji-picker) - Unstyled emoji picker for SolidJS
+- [Solid Firebase](https://github.com/wobsoriano/solid-firebase/)
 
 
 _more coming soon..._
