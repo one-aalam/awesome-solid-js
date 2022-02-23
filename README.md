@@ -213,6 +213,9 @@ Ryan's in-depth streams on all things Solid & reactivity
 - [Solid Form Action](https://github.com/mosheduminer/solid-form-action)
 - [Solid Create Form](https://github.com/SanichKotikov/solid-create-form)
 
+#### Misc
+- [Solid Readotron](https://github.com/untemps/solid-readotron)([NPM](https://www.npmjs.com/package/@untemps/solid-readotron))
+
 ### Routing
 - [Solid App Router](https://github.com/solidjs/solid-app-router)(official)
 - [Solid Typefu Router5](https://github.com/mikeplus64/solid-typefu-router5)
