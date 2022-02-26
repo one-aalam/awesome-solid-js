@@ -201,6 +201,9 @@ Ryan's in-depth streams on all things Solid & reactivity
 #### Slider
 - [Solid Slider](https://github.com/davedbase/solid-slider)([NPM](https://www.npmjs.com/package/solid-slider))
 
+#### Misc
+- [Solid Readotron](https://github.com/untemps/solid-readotron)([NPM](https://www.npmjs.com/package/@untemps/solid-readotron))
+
 ### Form
 - [Felte](https://github.com/pablo-abc/felte)
 
