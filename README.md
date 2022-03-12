@@ -215,6 +215,7 @@ Ryan's in-depth streams on all things Solid & reactivity
 #### Helpers
 - [Solid Form Action](https://github.com/mosheduminer/solid-form-action)
 - [Solid Create Form](https://github.com/SanichKotikov/solid-create-form)
+- [Solid Immer](https://github.com/myWsq/solid-immer)
 
 ### Routing
 - [Solid App Router](https://github.com/solidjs/solid-app-router)(official)
