@@ -239,6 +239,7 @@ Ryan's in-depth streams on all things Solid & reactivity
 - [Solid Headless](https://github.com/LXSMNSYC/solid-headless)
 - [Solid Bootstrap](https://solid-libs.github.io/solid-bootstrap/) - The most popular front-end framework, re-built for SolidJS
 - [Hope UI](https://hope-ui.com/) - The hoped component library for your SolidJS applications
+- [Zag JS](https://zagjs.com/) - UI components powered by Finite State Machines
 
 ### Re-usable behavioral code (like React hooks, or Vue composables for SolidJS)
 - [Solid Primitives](https://github.com/davedbase/solid-primitives)
