@@ -93,6 +93,7 @@ Ryan's in-depth streams on all things Solid & reactivity
 - [Solid Templates](https://github.com/solidjs/templates)(official)
 - [Vite + Solid + TailwindCSS Starter](https://github.com/wobsoriano/vite-solid-tailwind-starter)
 - [Solid + Supabase Starter Kit](https://github.com/one-aalam/solid-starter-kit) - Solid + Supabase Starter Kit is an opinionated boilerplate, with all the bells and whistles you want ready, up and running when starting a SolidJS project with Supabase
+- [Solid + Wundergraph](https://github.com/verdavaine/solidgraph) - Build applications with SolidJs and WunderGraph
 
 ### Tutorials
 - [Learn Solid](https://www.solidjs.com/guide#learn-solid)(Official)
@@ -131,11 +132,13 @@ Ryan's in-depth streams on all things Solid & reactivity
 <!-- ### Courses
 - _Coming Soon__ -->
 
-<!-- ## Projects Using Solid.js --> 
+<!-- ## Projects Using Solid.js -->
 <!-- Enable and add to sections
  -->
-<!-- ### Open Source
-- _Coming Soon__ -->
+### Open Source
+- [Codeimage.dev](https://github.com/riccardoperra/codeimage) - Create elegant screenshots of your source code. Built with SolidJS
+- [Bloki.app](https://github.com/MrFoxPro/bloki) - Blocks-based collaborative editor
+_more coming soon..._
 
 <!-- ### Commercial Products
 - _Coming Soon__ -->
@@ -152,6 +155,7 @@ Ryan's in-depth streams on all things Solid & reactivity
 
 #### Table
 - [Solid Simple Table](https://github.com/aminya/solid-simple-table)([NPM](https://www.npmjs.com/package/solid-simple-table))
+- [Solid Table](https://github.com/mokshit06/solid-table)([NPM](https://www.npmjs.com/package/@tanstack/solid-table))
 
 <!-- #### Notification -->
 <!-- #### Loader -->
@@ -180,9 +184,11 @@ Ryan's in-depth streams on all things Solid & reactivity
 - [Solid Transition Group](https://github.com/solidjs/solid-transition-group)(official)
 - [Solid Particles - Particles, confetti, fireworks and more animations](https://github.com/matteobruni/tsparticles/tree/main/components/solid)
 - [Solid Flip](https://github.com/otonashixav/solid-flip)
+- [Solid Spring](https://github.com/Aslemammad/solid-spring)
 
 <!-- #### Calendar -->
-<!-- #### Map -->
+#### Map
+- [Solid MapGL](https://github.com/GIShub4/solid-map-gl)
 <!-- #### Audio / Video -->
 #### Markdown
 - [Solid Markdown](https://github.com/andi23rosca/solid-markdown) - Render Markdown as Solid components
@@ -198,6 +204,9 @@ Ryan's in-depth streams on all things Solid & reactivity
 #### List
 - [Solid Virtual Container](https://github.com/minht11/solid-virtual-container)([NPM](https://www.npmjs.com/package/@minht11/solid-virtual-container))
 
+#### Select
+- [Solid Select](https://github.com/thisbeyond/solid-select)
+
 #### Slider
 - [Solid Slider](https://github.com/davedbase/solid-slider)([NPM](https://www.npmjs.com/package/solid-slider))
 
@@ -206,6 +215,8 @@ Ryan's in-depth streams on all things Solid & reactivity
 
 ### Form
 - [Felte](https://github.com/pablo-abc/felte)
+- [FormGear](https://github.com/AdityaSetyadi/form-gear)
+- [Solar Forms](https://github.com/kajetansw/solar-forms)
 
 #### Rich-Text Editor
 - [Solid Quill](https://github.com/amoutonbrady/solid-quill)([NPM](https://www.npmjs.com/package/solid-quill))
@@ -216,6 +227,7 @@ Ryan's in-depth streams on all things Solid & reactivity
 - [Solid Form Action](https://github.com/mosheduminer/solid-form-action)
 - [Solid Create Form](https://github.com/SanichKotikov/solid-create-form)
 - [Solid Immer](https://github.com/myWsq/solid-immer)
+- [Solid Proxies](https://github.com/Exelord/solid-proxies) - Solid.js library adding signaling to built-in non-primitives
 
 ### Routing
 - [Solid App Router](https://github.com/solidjs/solid-app-router)(official)
@@ -231,6 +243,8 @@ Ryan's in-depth streams on all things Solid & reactivity
 ### State Management
 - [Solid Zustand](https://github.com/wobsoriano/solid-zustand)
 - [Solid Nanostores](https://github.com/nanostores/solid)
+- [Gstatem](https://github.com/gstatem/gstatem)
+- [Solid Services](https://github.com/exelord/solid-services)
 
 ### Frameworks & Component Libraries
 
@@ -240,6 +254,8 @@ Ryan's in-depth streams on all things Solid & reactivity
 - [Solid Bootstrap](https://solid-libs.github.io/solid-bootstrap/) - The most popular front-end framework, re-built for SolidJS
 - [Hope UI](https://hope-ui.com/) - The hoped component library for your SolidJS applications
 - [Zag JS](https://zagjs.com/) - UI components powered by Finite State Machines
+- [Suid](https://github.com/swordev/suid) - A port of Material-UI (MUI) built with Solid.js
+- [Solid RevKit](https://github.com/specialdoom/solid-rev-kit) - RevKit UI for SolidJS
 
 ### Re-usable behavioral code (like React hooks, or Vue composables for SolidJS)
 - [Solid Primitives](https://github.com/davedbase/solid-primitives)
@@ -267,6 +283,7 @@ Ryan's in-depth streams on all things Solid & reactivity
 ### SSR
 - [Solid Start](https://github.com/solidjs/solid-start) - Official meta framework for SolidJS
 - [Rigidity](https://github.com/LXSMNSYC/rigidity) - An SSR framework for SolidJS
+- [Solidus JS](https://github.com/Perivel/solidus-js) - Plug-and-Play SSR for SolidJS (In Development)
 
 ### Works with Solid
 - [Astro](https://astro.build/)
@@ -277,6 +294,8 @@ Ryan's in-depth streams on all things Solid & reactivity
 - [Solid Giphy](https://github.com/lxsmnsyc/solid-giphy)
 - [Solid Emoji Picker](https://github.com/LXSMNSYC/solid-emoji-picker) - Unstyled emoji picker for SolidJS
 - [Solid Firebase](https://github.com/wobsoriano/solid-firebase/)
+- [Solid Command Palette](https://github.com/itaditya/solid-command-palette) - UI Library for Command Palette in SolidJS webapps
+- [React2Solid](https://github.com/rrjanbiah/react2solid)
 
 
 _more coming soon..._
