@@ -56,6 +56,7 @@
 - [The Deep Dive Episode 4: Reactive frontend frameworks](https://www.youtube.com/watch?v=iyY1lT8-ZDA)
 - [React vs Svelte vs Solid & MicroFrontends | Ryan Carniato](https://show.nikoskatsikanis.com/episodes/ryan-carniato) On the hard choices all companies are facing right now with their websites, especially with the performance
 - [Ryan Carniato on SolidJS](https://runtimepodcast.com/#7)Discussion on some of the similarities and differences between different UI frameworks, and talk about what things SolidJS has taken from react __The Runtime Podcast__
+- [A Solid option for building UIs](https://overcast.fm/+Id5U6EB5M) __JS Party__
 
 ### 📹 Videos/Screencasts/Twitch
 - [React to Solid - Stream With Ryan Carniato](https://www.youtube.com/watch?v=p8e9ta269x8)
@@ -121,6 +122,7 @@ Ryan's in-depth streams on all things Solid & reactivity
 - [Building JavaScript Frameworks to Conquer eCommerce](https://dev.to/this-is-learning/building-javascript-frameworks-to-conquer-ecommerce-3glc)
 - [SolidJS creator: JavaScript innovation isn’t slowing down](https://www.infoworld.com/article/3626348/solidjs-creator-javascript-innovation-isnt-slowing-down.html)
 - [JavaScript vs JavaScript. Fight!](https://dev.to/this-is-learning/javascript-vs-javascript-fight-53fa)
+- [Solid.js feels like what I always wanted React to be](https://typeofnan.dev/solid-js-feels-like-what-i-always-wanted-react-to-be/)
 
 #### Powered by Solid
 - [5 Reasons why we chose to transpile to SolidJS instead of React](https://dev.to/chrisczopp/5-reasons-why-we-chose-to-transpile-to-solidjs-instead-of-react-3pcl)
@@ -185,6 +187,7 @@ _more coming soon..._
 - [Solid Particles - Particles, confetti, fireworks and more animations](https://github.com/matteobruni/tsparticles/tree/main/components/solid)
 - [Solid Flip](https://github.com/otonashixav/solid-flip)
 - [Solid Spring](https://github.com/Aslemammad/solid-spring)
+- [Solid MotionOne](https://motion.dev/solid/quick-start)
 
 <!-- #### Calendar -->
 #### Map
@@ -206,6 +209,7 @@ _more coming soon..._
 
 #### Select
 - [Solid Select](https://github.com/thisbeyond/solid-select)
+- [Solid Multi-select](https://github.com/DigiChanges/solid-multiselect)
 
 #### Slider
 - [Solid Slider](https://github.com/davedbase/solid-slider)([NPM](https://www.npmjs.com/package/solid-slider))
@@ -256,6 +260,7 @@ _more coming soon..._
 - [Zag JS](https://zagjs.com/) - UI components powered by Finite State Machines
 - [Suid](https://github.com/swordev/suid) - A port of Material-UI (MUI) built with Solid.js
 - [Solid RevKit](https://github.com/specialdoom/solid-rev-kit) - RevKit UI for SolidJS
+- [Solid ARIA](https://github.com/solidjs-community/solid-aria) - A library of high-quality primitives that help you build accessible user interfaces with SolidJS
 
 ### Re-usable behavioral code (like React hooks, or Vue composables for SolidJS)
 - [Solid Primitives](https://github.com/davedbase/solid-primitives)
@@ -279,6 +284,7 @@ _more coming soon..._
 - [Babel Solid Plugin - Labels](https://github.com/LXSMNSYC/babel-plugin-solid-labels) - Simple, reactive labels for SolidJS
 - [Babel Solid Plugin - Understrcuture](https://github.com/orenelbaum/babel-plugin-solid-undestructure) - Destructure component props without losing reactivity
 - [Solid SFC(Experimental)](https://github.com/LXSMNSYC/solid-sfc) - Experimental SFC compiler for SolidJS
+- [Solid Styled](https://github.com/LXSMNSYC/solid-styled) - Reactive stylesheets for SolidJS
 
 ### SSR
 - [Solid Start](https://github.com/solidjs/solid-start) - Official meta framework for SolidJS
