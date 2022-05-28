@@ -207,6 +207,9 @@ _more coming soon..._
 #### List
 - [Solid Virtual Container](https://github.com/minht11/solid-virtual-container)([NPM](https://www.npmjs.com/package/@minht11/solid-virtual-container))
 
+#### Scrollbar
+- [Perfectly Scrollable](https://github.com/dolsem/perfectly-scrollable)([NPM](https://www.npmjs.com/package/perfectly-scrollable))
+
 #### Select
 - [Solid Select](https://github.com/thisbeyond/solid-select)
 - [Solid Multi-select](https://github.com/DigiChanges/solid-multiselect)
