@@ -224,6 +224,7 @@ _more coming soon..._
 - [Felte](https://github.com/pablo-abc/felte)
 - [FormGear](https://github.com/AdityaSetyadi/form-gear)
 - [Solar Forms](https://github.com/kajetansw/solar-forms)
+- [Solid Forms](https://github.com/jorroll/solid-forms) - Making reusable form components easy and composable. Built upon solid-js/store.
 
 #### Rich-Text Editor
 - [Solid Quill](https://github.com/amoutonbrady/solid-quill)([NPM](https://www.npmjs.com/package/solid-quill))
