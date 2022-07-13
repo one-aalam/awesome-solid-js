@@ -145,8 +145,9 @@ _more coming soon..._
 <!-- ### Commercial Products
 - _Coming Soon__ -->
 
-<!-- ### Apps/Websites
-- _Coming Soon__ -->
+### Apps/Websites
+- [ambient-rvx.web.app](https://ambient-rvx.web.app/)
+- [artbyqreature.com](https://artbyqreature.com/)
 
 <!-- ### Enterprise Usage
 - _Coming Soon__ -->
@@ -265,6 +266,8 @@ _more coming soon..._
 - [Suid](https://github.com/swordev/suid) - A port of Material-UI (MUI) built with Solid.js
 - [Solid RevKit](https://github.com/specialdoom/solid-rev-kit) - RevKit UI for SolidJS
 - [Solid ARIA](https://github.com/solidjs-community/solid-aria) - A library of high-quality primitives that help you build accessible user interfaces with SolidJS
+- [Solid CodeMirror](https://github.com/nimeshnayaju/solid-codemirror) - CodeMirror 6 component for SolidJS
+- [Solid Knobs](https://github.com/tahti-studio/solid-knobs) - Primitives for building user-friendly controls with SolidJS
 
 ### Re-usable behavioral code (like React hooks, or Vue composables for SolidJS)
 - [Solid Primitives](https://github.com/davedbase/solid-primitives)
@@ -288,8 +291,15 @@ _more coming soon..._
 - [Babel Solid Plugin - Labels](https://github.com/LXSMNSYC/babel-plugin-solid-labels) - Simple, reactive labels for SolidJS
 - [Babel Solid Plugin - Understrcuture](https://github.com/orenelbaum/babel-plugin-solid-undestructure) - Destructure component props without losing reactivity
 - [Solid SFC(Experimental)](https://github.com/LXSMNSYC/solid-sfc) - Experimental SFC compiler for SolidJS
-- [Solid Styled](https://github.com/LXSMNSYC/solid-styled) - Reactive stylesheets for SolidJS
 - [vite-plugin-inline-css-modules](https://github.com/Bluskript/vite-plugin-inline-css-modules) - Zero runtime plugin to write CSS modules inside of component files
+
+### Styling
+- [Solid Styled](https://github.com/LXSMNSYC/solid-styled) - Reactive stylesheets for SolidJS
+- [Discrete Typography](https://github.com/zaydek/discrete-typography) - Experimental tool inspired by Capsize, implemented in Solid JS. Generates x-height and cap-height CSS
+
+### Storage
+- [Solid Cache](https://github.com/lxsmnsyc/solid-cache) - Resource caching in SolidJS
+- [Solid Dexie](https://github.com/faassen/solid-dexie) - Dexie(wrapper around IndexedDB) integration for Solid
 
 ### SSR
 - [Solid Start](https://github.com/solidjs/solid-start) - Official meta framework for SolidJS
@@ -307,6 +317,7 @@ _more coming soon..._
 - [Solid Firebase](https://github.com/wobsoriano/solid-firebase/)
 - [Solid Command Palette](https://github.com/itaditya/solid-command-palette) - UI Library for Command Palette in SolidJS webapps
 - [React2Solid](https://github.com/rrjanbiah/react2solid)
+- [Solid Keep-Alive](https://www.npmjs.com/package/solid-keep-alive) - Keep you components alive even after parent's unmounts, saving signals and DOM elements in cache to reuse them.
 
 
 _more coming soon..._
