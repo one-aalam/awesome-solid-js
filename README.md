@@ -271,6 +271,7 @@ _more coming soon..._
 
 ### Re-usable behavioral code (like React hooks, or Vue composables for SolidJS)
 - [Solid Primitives](https://github.com/davedbase/solid-primitives)
+- [Solid Signals](https://www.npmjs.com/package/solid-signals)
 
 ### Querying/GraphQL
 - [Solid URQL](https://github.com/Acidic9/solid-urql)
