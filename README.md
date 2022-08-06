@@ -292,6 +292,7 @@ _more coming soon..._
 - [Babel Solid Plugin - Understrcuture](https://github.com/orenelbaum/babel-plugin-solid-undestructure) - Destructure component props without losing reactivity
 - [Solid SFC(Experimental)](https://github.com/LXSMNSYC/solid-sfc) - Experimental SFC compiler for SolidJS
 - [vite-plugin-inline-css-modules](https://github.com/Bluskript/vite-plugin-inline-css-modules) - Zero runtime plugin to write CSS modules inside of component files
+- [LocatorJS](https://github.com/infi-pc/locatorjs) - Click on any component to go to it's code. (it's also built with SolidJS)
 
 ### Styling
 - [Solid Styled](https://github.com/LXSMNSYC/solid-styled) - Reactive stylesheets for SolidJS
