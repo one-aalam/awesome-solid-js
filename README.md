@@ -255,6 +255,7 @@ _more coming soon..._
 - [Solid Nanostores](https://github.com/nanostores/solid)
 - [Gstatem](https://github.com/gstatem/gstatem)
 - [Solid Services](https://github.com/exelord/solid-services)
+- [Effector](https://github.com/effector/effector/tree/master/packages/effector-solid)
 
 ### Frameworks & Component Libraries
 
