@@ -148,6 +148,7 @@ _more coming soon..._
 ### Apps/Websites
 - [ambient-rvx.web.app](https://ambient-rvx.web.app/)
 - [artbyqreature.com](https://artbyqreature.com/)
+- [Hypetrigger](https://hypetrigger.io/)
 
 <!-- ### Enterprise Usage
 - _Coming Soon__ -->
