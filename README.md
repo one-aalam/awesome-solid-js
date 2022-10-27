@@ -95,6 +95,7 @@ Ryan's in-depth streams on all things Solid & reactivity
 - [Vite + Solid + TailwindCSS Starter](https://github.com/wobsoriano/vite-solid-tailwind-starter)
 - [Solid + Supabase Starter Kit](https://github.com/one-aalam/solid-starter-kit) - Solid + Supabase Starter Kit is an opinionated boilerplate, with all the bells and whistles you want ready, up and running when starting a SolidJS project with Supabase
 - [Solid + Wundergraph](https://github.com/verdavaine/solidgraph) - Build applications with SolidJs and WunderGraph
+- [create-solid-library](https://github.com/bluskript/create-solid-library) - Create a new Solid component library in seconds!
 
 ### Tutorials
 - [Learn Solid](https://www.solidjs.com/guide#learn-solid)(Official)
@@ -168,6 +169,9 @@ _more coming soon..._
 - [Solid Popper](https://github.com/lxsmnsyc/solid-popper)
 - [Solid Dismiss](https://github.com/aquaductape/solid-dismiss)
 - [Solid Ninja Keys](https://github.com/wobsoriano/solid-ninja-keys)
+
+#### Layout
+- [Solid Split Pane](https://github.com/bluskript/solid-split-pane)
 
 #### Icons
 - [Unplugin Icons](https://github.com/antfu/unplugin-icons)([NPM](https://www.npmjs.com/package/unplugin-icons))
