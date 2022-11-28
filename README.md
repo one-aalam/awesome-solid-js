@@ -27,6 +27,7 @@
   - [Translation](#translation)
   - [State Management](#state-management)
   - [Frameworks & Component Libraries](#frameworks--component-libraries)
+  - [Re-usable behavioral code](#re-usable-behavioral-code-like-react-hooks-or-vue-composables-for-solidjs)
   - [Testing](#testing)
   - [DX](#dx)
   - [Works with Solid](#works-with-solid)
