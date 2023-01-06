@@ -160,8 +160,9 @@ _more coming soon..._
 ### UI Components
 
 #### Table
-- [Solid Simple Table](https://github.com/aminya/solid-simple-table)([NPM](https://www.npmjs.com/package/solid-simple-table))
-- [Solid Table](https://github.com/mokshit06/solid-table)([NPM](https://www.npmjs.com/package/@tanstack/solid-table))
+- [Solid Simple Table](https://github.com/aminya/solid-simple-table) ([NPM](https://www.npmjs.com/package/solid-simple-table))
+- [Solid Table](https://github.com/mokshit06/solid-table) ([NPM](https://www.npmjs.com/package/@tanstack/solid-table))
+- [TanStack Solid Table](https://tanstack.com/table) ([NPM](https://www.npmjs.com/package/@tanstack/solid-table))
 
 <!-- #### Notification -->
 <!-- #### Loader -->
@@ -170,15 +171,16 @@ _more coming soon..._
 - [Solid Popper](https://github.com/lxsmnsyc/solid-popper)
 - [Solid Dismiss](https://github.com/aquaductape/solid-dismiss)
 - [Solid Ninja Keys](https://github.com/wobsoriano/solid-ninja-keys)
+- [Solid Tippy](https://github.com/lxsmnsyc/solid-tippy) ([NPM](https://www.npmjs.com/package/solid-tippy))
 
 #### Layout
 - [Solid Split Pane](https://github.com/bluskript/solid-split-pane)
 
 #### Icons
-- [Unplugin Icons](https://github.com/antfu/unplugin-icons)([NPM](https://www.npmjs.com/package/unplugin-icons))
-- [Solid Icons](https://github.com/x64Bits/solid-icons)([NPM](https://www.npmjs.com/package/solid-icons))
-- [Solid HeroIcons](https://github.com/amoutonbrady/solid-heroicons)([NPM](https://www.npmjs.com/package/@amoutonbrady/solid-heroicons))
-- [Solid SVG](https://github.com/jfgodoy/vite-plugin-solid-svg)([NPM](https://www.npmjs.com/package/vite-plugin-solid-svg))
+- [Unplugin Icons](https://github.com/antfu/unplugin-icons) ([NPM](https://www.npmjs.com/package/unplugin-icons))
+- [Solid Icons](https://github.com/x64Bits/solid-icons) ([NPM](https://www.npmjs.com/package/solid-icons))
+- [Solid HeroIcons](https://github.com/amoutonbrady/solid-heroicons) ([NPM](https://www.npmjs.com/package/@amoutonbrady/solid-heroicons))
+- [Solid SVG](https://github.com/jfgodoy/vite-plugin-solid-svg) ([NPM](https://www.npmjs.com/package/vite-plugin-solid-svg))
 - [Phosphor Solid](https://www.npmjs.com/package/phosphor-solid)
 
 <!-- #### Menu -->
@@ -186,7 +188,7 @@ _more coming soon..._
 - [Solid Slider](https://github.com/davedbase/solid-slider)
 
 #### Charts
-- [Solid Chart.js](https://github.com/MrFoxPro/solid-chart.js)([NPM](https://www.npmjs.com/package/solid-chart.js))
+- [Solid Chart.js](https://github.com/MrFoxPro/solid-chart.js) ([NPM](https://www.npmjs.com/package/solid-chart.js))
 - [Solid ApexCharts](https://github.com/wobsoriano/solid-apexcharts)
 
 #### Animation
@@ -207,25 +209,30 @@ _more coming soon..._
 #### Drag and Drop
 - [Solid DnD](https://solid-dnd.com/)
 - [Solid DND Directive](https://github.com/isaacHagoel/solid-dnd-directive)
+- [Neodrag](https://github.com/PuruVJ/neodrag) ([NPM](https://www.npmjs.com/package/@neodrag/solid))
 <!-- #### PDF -->
 <!-- #### Tree -->
 <!-- #### Graph -->
 <!-- #### Search -->
 #### List
-- [Solid Virtual Container](https://github.com/minht11/solid-virtual-container)([NPM](https://www.npmjs.com/package/@minht11/solid-virtual-container))
+- [Solid Virtual Container](https://github.com/minht11/solid-virtual-container) ([NPM](https://www.npmjs.com/package/@minht11/solid-virtual-container))
+- [TanStack Virtual](https://tanstack.com/virtual/v3) ([NPM](https://www.npmjs.com/package/@tanstack/solid-virtual))
 
 #### Scrollbar
-- [Perfectly Scrollable](https://github.com/dolsem/perfectly-scrollable)([NPM](https://www.npmjs.com/package/perfectly-scrollable))
+- [Perfectly Scrollable](https://github.com/dolsem/perfectly-scrollable) ([NPM](https://www.npmjs.com/package/perfectly-scrollable))
 
 #### Select
 - [Solid Select](https://github.com/thisbeyond/solid-select)
 - [Solid Multi-select](https://github.com/DigiChanges/solid-multiselect)
 
 #### Slider
-- [Solid Slider](https://github.com/davedbase/solid-slider)([NPM](https://www.npmjs.com/package/solid-slider))
+- [Solid Slider](https://github.com/davedbase/solid-slider) ([NPM](https://www.npmjs.com/package/solid-slider))
+
+#### Toast / Snackbar
+- [Solid Toast](https://www.solid-toast.com/) ([NPM](https://www.npmjs.com/package/solid-toast))
 
 #### Misc
-- [Solid Readotron](https://github.com/untemps/solid-readotron)([NPM](https://www.npmjs.com/package/@untemps/solid-readotron))
+- [Solid Readotron](https://github.com/untemps/solid-readotron) ([NPM](https://www.npmjs.com/package/@untemps/solid-readotron))
 
 ### Form
 - [Felte](https://github.com/pablo-abc/felte)
@@ -235,7 +242,7 @@ _more coming soon..._
 - [Solform](https://github.com/ragokan/solform) - Very lightweight and simply managed forms.
 
 #### Rich-Text Editor
-- [Solid Quill](https://github.com/amoutonbrady/solid-quill)([NPM](https://www.npmjs.com/package/solid-quill))
+- [Solid Quill](https://github.com/amoutonbrady/solid-quill) ([NPM](https://www.npmjs.com/package/solid-quill))
 - [TipTap Solid](https://github.com/andi23rosca/tiptap-solid)
 - [Slate Solid](https://github.com/poudels14/slate-solid)
 
@@ -254,7 +261,7 @@ _more coming soon..._
 - [Solid Meta](https://github.com/solidjs/solid-meta)(official)
 
 ### Translation
-- [Solid i18n](https://github.com/amoutonbrady/solid-i18n)([NPM](https://www.npmjs.com/package/@amoutonbrady/solid-i18n))
+- [Solid i18n](https://github.com/amoutonbrady/solid-i18n) ([NPM](https://www.npmjs.com/package/@amoutonbrady/solid-i18n))
 
 ### State Management
 - [Solid Zustand](https://github.com/wobsoriano/solid-zustand)
@@ -283,6 +290,7 @@ _more coming soon..._
 
 ### Querying/GraphQL
 - [Solid URQL](https://github.com/Acidic9/solid-urql)
+- [TanStack Solid Query](https://tanstack.com/query/v4) ([NPM](https://www.npmjs.com/package/@tanstack/solid-query))
 
 ### Testing
 - [Solid Jest](https://github.com/solidjs/solid-jest)(official)
@@ -296,7 +304,7 @@ _more coming soon..._
 - [Solid Refresh (HMR)](https://github.com/solidjs/solid-refresh)(official) - HMR for Solid for various bundlers
 - [ESLint for Solid](https://github.com/joshwilsonvu/eslint-plugin-solid) - Solid-specific linting rules for ESLint
 - [Roll-up preset for Solid Libraries](https://github.com/amoutonbrady/rollup-preset-solid) - Preset for rollup to bundle your solid libraries with rollup
-- [ESBuild Solid Plugin](https://github.com/amoutonbrady/esbuild-plugin-solid)([NPM](https://www.npmjs.com/package/esbuild-plugin-solid)) - Plugin to compile solid-js jsx components with ESbuild.
+- [ESBuild Solid Plugin](https://github.com/amoutonbrady/esbuild-plugin-solid) ([NPM](https://www.npmjs.com/package/esbuild-plugin-solid)) - Plugin to compile solid-js jsx components with ESbuild.
 - [Babel Solid Plugin - Labels](https://github.com/LXSMNSYC/babel-plugin-solid-labels) - Simple, reactive labels for SolidJS
 - [Babel Solid Plugin - Understrcuture](https://github.com/orenelbaum/babel-plugin-solid-undestructure) - Destructure component props without losing reactivity
 - [Solid SFC(Experimental)](https://github.com/LXSMNSYC/solid-sfc) - Experimental SFC compiler for SolidJS
