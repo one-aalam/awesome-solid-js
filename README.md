@@ -97,6 +97,7 @@ Ryan's in-depth streams on all things Solid & reactivity
 - [Solid + Supabase Starter Kit](https://github.com/one-aalam/solid-starter-kit) - Solid + Supabase Starter Kit is an opinionated boilerplate, with all the bells and whistles you want ready, up and running when starting a SolidJS project with Supabase
 - [Solid + Wundergraph](https://github.com/verdavaine/solidgraph) - Build applications with SolidJs and WunderGraph
 - [create-solid-library](https://github.com/bluskript/create-solid-library) - Create a new Solid component library in seconds!
+- [Solid + Vite + Electron Starter](https://github.com/tgrassl/solid-vite-electron) - Build an Electron app with SolidJS
 
 ### Tutorials
 - [Learn Solid](https://www.solidjs.com/guide#learn-solid)(Official)
