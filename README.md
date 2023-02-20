@@ -284,6 +284,7 @@ _more coming soon..._
 - [Solid ARIA](https://github.com/solidjs-community/solid-aria) - A library of high-quality primitives that help you build accessible user interfaces with SolidJS
 - [Solid CodeMirror](https://github.com/nimeshnayaju/solid-codemirror) - CodeMirror 6 component for SolidJS
 - [Solid Knobs](https://github.com/tahti-studio/solid-knobs) - Primitives for building user-friendly controls with SolidJS
+- [Flowbite SolidJS](https://flowbite.com/docs/getting-started/solid-js/) - Open-source UI components based on Flowbite and Tailwind CSS
 
 ### Re-usable behavioral code (like React hooks, or Vue composables for SolidJS)
 - [Solid Primitives](https://github.com/davedbase/solid-primitives)
