@@ -27,6 +27,7 @@
   - [Translation](#translation)
   - [State Management](#state-management)
   - [Frameworks & Component Libraries](#frameworks--component-libraries)
+  - [Authentication & Authorization](#authentications--authorization)
   - [Re-usable behavioral code (like React hooks, or Vue composables for SolidJS)](#re-usable-behavioral-code-like-react-hooks-or-vue-composables-for-solidjs)
   - [Testing](#testing)
   - [DX](#dx)
@@ -285,6 +286,10 @@ _more coming soon..._
 - [Solid CodeMirror](https://github.com/nimeshnayaju/solid-codemirror) - CodeMirror 6 component for SolidJS
 - [Solid Knobs](https://github.com/tahti-studio/solid-knobs) - Primitives for building user-friendly controls with SolidJS
 - [Flowbite SolidJS](https://flowbite.com/docs/getting-started/solid-js/) - Open-source UI components based on Flowbite and Tailwind CSS
+
+### Authentication & Authorization
+
+- [msal-community-solid](https://github.com/saraelsa/msal-community-solid) ([NPM](https://www.npmjs.com/package/msal-community-solid)) - Authentication library for SolidJS SPAs based on the Microsoft Identity Platform
 
 ### Re-usable behavioral code (like React hooks, or Vue composables for SolidJS)
 - [Solid Primitives](https://github.com/davedbase/solid-primitives)
