@@ -253,6 +253,7 @@ _more coming soon..._
 - [Solid Create Form](https://github.com/SanichKotikov/solid-create-form)
 - [Solid Immer](https://github.com/myWsq/solid-immer)
 - [Solid Proxies](https://github.com/Exelord/solid-proxies) - Solid.js library adding signaling to built-in non-primitives
+- [Solid Use](https://github.com/lxsmnsyc/solid-use) - A collection of SolidJS utilities
 
 ### Routing
 - [Solid App Router](https://github.com/solidjs/solid-app-router)(official)
@@ -274,9 +275,9 @@ _more coming soon..._
 
 ### Frameworks & Component Libraries
 
-- [Solid Blocks](https://atk.github.io/solid-blocks)
-- [Lume](https://github.com/lume/element)
-- [Solid Headless](https://github.com/LXSMNSYC/solid-headless)
+- [Solid Blocks](https://atk.github.io/solid-blocks) - UI building blocks for SolidJS.
+- [Lume](https://github.com/lume/element) - Fast and simple custom elements
+- [Solid Headless](https://github.com/LXSMNSYC/solid-headless) - Headless UI for SolidJS
 - [Solid Bootstrap](https://solid-libs.github.io/solid-bootstrap/) - The most popular front-end framework, re-built for SolidJS
 - [Hope UI](https://hope-ui.com/) - The hoped component library for your SolidJS applications
 - [Zag JS](https://zagjs.com/) - UI components powered by Finite State Machines
@@ -330,6 +331,7 @@ _more coming soon..._
 
 ### SSR
 - [Solid Start](https://github.com/solidjs/solid-start) - Official meta framework for SolidJS
+- [create-jd-app](https://github.com/OrJDev/create-jd-app) - The quickest and most efficient way to start new full stack, type safed Solid web app
 - [Rigidity](https://github.com/LXSMNSYC/rigidity) - An SSR framework for SolidJS
 - [Solidus JS](https://github.com/Perivel/solidus-js) - Plug-and-Play SSR for SolidJS (In Development)
 
