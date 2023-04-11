@@ -314,7 +314,7 @@ _more coming soon..._
 - [Roll-up preset for Solid Libraries](https://github.com/amoutonbrady/rollup-preset-solid) - Preset for rollup to bundle your solid libraries with rollup
 - [ESBuild Solid Plugin](https://github.com/amoutonbrady/esbuild-plugin-solid) ([NPM](https://www.npmjs.com/package/esbuild-plugin-solid)) - Plugin to compile solid-js jsx components with ESbuild.
 - [Babel Solid Plugin - Labels](https://github.com/LXSMNSYC/babel-plugin-solid-labels) - Simple, reactive labels for SolidJS
-- [Babel Solid Plugin - Understrcuture](https://github.com/orenelbaum/babel-plugin-solid-undestructure) - Destructure component props without losing reactivity
+- [Babel Solid Plugin - Undestructure](https://github.com/orenelbaum/babel-plugin-solid-undestructure) - Destructure component props without losing reactivity
 - [Solid SFC(Experimental)](https://github.com/LXSMNSYC/solid-sfc) - Experimental SFC compiler for SolidJS
 - [vite-plugin-inline-css-modules](https://github.com/Bluskript/vite-plugin-inline-css-modules) - Zero runtime plugin to write CSS modules inside of component files
 - [LocatorJS](https://github.com/infi-pc/locatorjs) - Click on any component to go to it's code. (it's also built with SolidJS)
