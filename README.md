@@ -28,9 +28,10 @@
   - [State Management](#state-management)
   - [Frameworks & Component Libraries](#frameworks--component-libraries)
   - [Authentication & Authorization](#authentications--authorization)
-  - [Re-usable behavioral code (like React hooks, or Vue composables for SolidJS)](#re-usable-behavioral-code-like-react-hooks-or-vue-composables-for-solidjs)
+  - [Helpers(like React hooks, or Vue composables for SolidJS)](#helpers)
   - [Testing](#testing)
   - [DX](#dx)
+  - [SSR](#ssr)
   - [Works with Solid](#works-with-solid)
 
 ## Resources
@@ -248,12 +249,6 @@ _more coming soon..._
 - [TipTap Solid](https://github.com/andi23rosca/tiptap-solid)
 - [Slate Solid](https://github.com/poudels14/slate-solid)
 
-#### Helpers
-- [Solid Form Action](https://github.com/mosheduminer/solid-form-action)
-- [Solid Create Form](https://github.com/SanichKotikov/solid-create-form)
-- [Solid Immer](https://github.com/myWsq/solid-immer)
-- [Solid Proxies](https://github.com/Exelord/solid-proxies) - Solid.js library adding signaling to built-in non-primitives
-- [Solid Use](https://github.com/lxsmnsyc/solid-use) - A collection of SolidJS utilities
 
 ### Routing
 - [Solid App Router](https://github.com/solidjs/solid-app-router)(official)
@@ -293,10 +288,14 @@ _more coming soon..._
 
 - [msal-community-solid](https://github.com/saraelsa/msal-community-solid) ([NPM](https://www.npmjs.com/package/msal-community-solid)) - Authentication library for SolidJS SPAs based on the Microsoft Identity Platform
 
-### Re-usable behavioral code (like React hooks, or Vue composables for SolidJS)
+### Helpers
+Re-usable behavioral code (like React hooks, or Vue composables for SolidJS)
 - [Solid Primitives](https://github.com/davedbase/solid-primitives)
 - [Solid Signals](https://www.npmjs.com/package/solid-signals)
 - [Solid Request](https://github.com/NelsonYong/solid-request)
+- [Solid Use](https://github.com/lxsmnsyc/solid-use) - A collection of SolidJS utilities
+- [Solid Immer](https://github.com/myWsq/solid-immer)
+- [Solid Proxies](https://github.com/Exelord/solid-proxies) - Solid.js library adding signaling to built-in non-primitives
 
 ### Querying/GraphQL
 - [Solid URQL](https://github.com/Acidic9/solid-urql)
@@ -306,9 +305,6 @@ _more coming soon..._
 - [Solid Jest](https://github.com/solidjs/solid-jest)(official)
 - [Solid Testing Library](https://github.com/solidjs/solid-testing-library)(official)
 - [solid-register](https://github.com/atk/solid-register)
-
-### i18n
-- [Solid i18n](https://github.com/SanichKotikov/solid-i18n) - Tiny internationalization library for SolidJS
 
 ### DX
 - [Solid Refresh (HMR)](https://github.com/solidjs/solid-refresh)(official) - HMR for Solid for various bundlers
