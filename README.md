@@ -286,6 +286,7 @@ _more coming soon..._
 - [Solid CodeMirror](https://github.com/nimeshnayaju/solid-codemirror) - CodeMirror 6 component for SolidJS
 - [Solid Knobs](https://github.com/tahti-studio/solid-knobs) - Primitives for building user-friendly controls with SolidJS
 - [Flowbite SolidJS](https://flowbite.com/docs/getting-started/solid-js/) - Open-source UI components based on Flowbite and Tailwind CSS
+- [Solid Material](https://github.com/ceopaludetto/solid-material)
 
 ### Authentication & Authorization
 
