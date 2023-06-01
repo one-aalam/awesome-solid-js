@@ -328,7 +328,6 @@ Re-usable behavioral code (like React hooks, or Vue composables for SolidJS)
 ### SSR
 - [Solid Start](https://github.com/solidjs/solid-start) - Official meta framework for SolidJS
 - [create-jd-app](https://github.com/OrJDev/create-jd-app) - The quickest and most efficient way to start new full stack, type safed Solid web app
-- [Rigidity](https://github.com/LXSMNSYC/rigidity) - An SSR framework for SolidJS
 - [Solidus JS](https://github.com/Perivel/solidus-js) - Plug-and-Play SSR for SolidJS (In Development)
 
 ### Works with Solid
