@@ -267,6 +267,7 @@ _more coming soon..._
 - [Gstatem](https://github.com/gstatem/gstatem)
 - [Solid Services](https://github.com/exelord/solid-services)
 - [Effector](https://github.com/effector/effector/tree/master/packages/effector-solid)
+- [Solid Jotai](https://github.com/wobsoriano/solid-jotai)
 
 ### Frameworks & Component Libraries
 
