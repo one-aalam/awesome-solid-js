@@ -233,6 +233,7 @@ _more coming soon..._
 
 #### Toast / Snackbar
 - [Solid Toast](https://www.solid-toast.com/) ([NPM](https://www.npmjs.com/package/solid-toast))
+- [Solid Sonner](https://solid-sonner.vercel.app) ([NPM](https://www.npmjs.com/package/solid-sonner))
 
 #### Misc
 - [Solid Readotron](https://github.com/untemps/solid-readotron) ([NPM](https://www.npmjs.com/package/@untemps/solid-readotron))
