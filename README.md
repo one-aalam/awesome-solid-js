@@ -276,12 +276,14 @@ _more coming soon..._
 - [Lume](https://github.com/lume/element) - Fast and simple custom elements
 - [Solid Headless](https://github.com/LXSMNSYC/solid-headless) - Headless UI for SolidJS
 - [Solid Bootstrap](https://solid-libs.github.io/solid-bootstrap/) - The most popular front-end framework, re-built for SolidJS
-- [Hope UI](https://hope-ui.com/) - The hoped component library for your SolidJS applications
+- [Pigment](https://pigment.kobalte.dev/docs/core/overview/introduction) - A design system built with Kobalte and Tailwind CSS
+- [Kobalte](https://kobalte.dev/docs/core/overview/introduction) - An _unstyled_ UI toolkit for building accessible web apps and design systems
 - [Zag JS](https://zagjs.com/) - UI components powered by Finite State Machines
 - [Suid](https://github.com/swordev/suid) - A port of Material-UI (MUI) built with Solid.js
 - [Solid RevKit](https://github.com/specialdoom/solid-rev-kit) - RevKit UI for SolidJS
 - [Solid ARIA](https://github.com/solidjs-community/solid-aria) - A library of high-quality primitives that help you build accessible user interfaces with SolidJS
 - [Solid CodeMirror](https://github.com/nimeshnayaju/solid-codemirror) - CodeMirror 6 component for SolidJS
+- [Solid CodeMirror](https://github.com/riccardoperra/solid-codemirror) - CodeMirror 6 component for SolidJS (yes, there are two)
 - [Solid Knobs](https://github.com/tahti-studio/solid-knobs) - Primitives for building user-friendly controls with SolidJS
 - [Flowbite SolidJS](https://flowbite.com/docs/getting-started/solid-js/) - Open-source UI components based on Flowbite and Tailwind CSS
 - [Solid Material](https://github.com/ceopaludetto/solid-material)
