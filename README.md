@@ -221,6 +221,9 @@ _more coming soon..._
 - [Solid Virtual Container](https://github.com/minht11/solid-virtual-container) ([NPM](https://www.npmjs.com/package/@minht11/solid-virtual-container))
 - [TanStack Virtual](https://tanstack.com/virtual/v3) ([NPM](https://www.npmjs.com/package/@tanstack/solid-virtual))
 
+#### Quiz
+- [Solid-quiz](https://github.com/doldsimo/solid-quiz)
+
 #### Scrollbar
 - [Perfectly Scrollable](https://github.com/dolsem/perfectly-scrollable) ([NPM](https://www.npmjs.com/package/perfectly-scrollable))
 
