@@ -235,6 +235,9 @@ _more coming soon..._
 - [Solid Toast](https://www.solid-toast.com/) ([NPM](https://www.npmjs.com/package/solid-toast))
 - [Solid Sonner](https://solid-sonner.vercel.app) ([NPM](https://www.npmjs.com/package/solid-sonner))
 
+#### Image
+- [Zoom Image Library](https://willnguyen1312.github.io/zoom-image) - A little yet powerful framework agnostic headless-library to zoom image on the web
+
 #### Misc
 - [Solid Readotron](https://github.com/untemps/solid-readotron) ([NPM](https://www.npmjs.com/package/@untemps/solid-readotron))
 
