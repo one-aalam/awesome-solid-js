@@ -247,6 +247,7 @@ _more coming soon..._
 - [Solar Forms](https://github.com/kajetansw/solar-forms)
 - [Solid Forms](https://github.com/jorroll/solid-forms) - Making reusable form components easy and composable. Built upon solid-js/store.
 - [Solform](https://github.com/ragokan/solform) - Very lightweight and simply managed forms.
+- [Solid-quiz](https://github.com/doldsimo/solid-quiz) - Simple quiz component
 
 #### Rich-Text Editor
 - [Solid Quill](https://github.com/amoutonbrady/solid-quill) ([NPM](https://www.npmjs.com/package/solid-quill))
