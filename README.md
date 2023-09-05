@@ -26,6 +26,7 @@
   - [SEO](#seo)
   - [Translation](#translation)
   - [State Management](#state-management)
+  - [Web Components](#web-components)
   - [Frameworks & Component Libraries](#frameworks--component-libraries)
   - [Authentication & Authorization](#authentications--authorization)
   - [Helpers(like React hooks, or Vue composables for SolidJS)](#helpers)
