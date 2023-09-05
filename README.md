@@ -26,6 +26,7 @@
   - [SEO](#seo)
   - [Translation](#translation)
   - [State Management](#state-management)
+  - [Web Components](#web-components)
   - [Frameworks & Component Libraries](#frameworks--component-libraries)
   - [Authentication & Authorization](#authentications--authorization)
   - [Helpers(like React hooks, or Vue composables for SolidJS)](#helpers)
@@ -274,10 +275,14 @@ _more coming soon..._
 - [Effector](https://github.com/effector/effector/tree/master/packages/effector-solid)
 - [Solid Jotai](https://github.com/wobsoriano/solid-jotai)
 
+### Web Components
+
+- [Solid Element](https://github.com/solidjs/solid/tree/main/packages/solid-element) - Library for authoring web components with SolidJS.
+- [Lume Element](https://github.com/lume/element) - Fast and simple custom elements
+
 ### Frameworks & Component Libraries
 
 - [Solid Blocks](https://atk.github.io/solid-blocks) - UI building blocks for SolidJS.
-- [Lume](https://github.com/lume/element) - Fast and simple custom elements
 - [Solid Headless](https://github.com/LXSMNSYC/solid-headless) - Headless UI for SolidJS
 - [Solid Bootstrap](https://solid-libs.github.io/solid-bootstrap/) - The most popular front-end framework, re-built for SolidJS
 - [Pigment](https://pigment.kobalte.dev/docs/core/overview/introduction) - A design system built with Kobalte and Tailwind CSS
