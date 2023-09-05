@@ -24,7 +24,7 @@
   - [Forms](#form)
   - [Routing](#routing)
   - [SEO](#seo)
-  - [Translation](#translation)
+  - [Internationalisation](#internationalisation)
   - [State Management](#state-management)
   - [Frameworks & Component Libraries](#frameworks--component-libraries)
   - [Authentication & Authorization](#authentications--authorization)
@@ -263,8 +263,10 @@ _more coming soon..._
 ### SEO
 - [Solid Meta](https://github.com/solidjs/solid-meta)(official)
 
-### Translation
-- [Solid i18n](https://github.com/amoutonbrady/solid-i18n) ([NPM](https://www.npmjs.com/package/@amoutonbrady/solid-i18n))
+### Internationalisation
+
+- [Solid Primitives — i18n](https://github.com/solidjs-community/solid-primitives/tree/main/packages/i18n#readme) - Library of internationalisation primitives.
+- [Typesafe i18n](https://github.com/ivanhofer/typesafe-i18n/tree/main/packages/adapter-solid) - SolidJS adapter for [typesafe-i18n](https://github.com/ivanhofer/typesafe-i18n)
 
 ### State Management
 - [Solid Zustand](https://github.com/wobsoriano/solid-zustand)
