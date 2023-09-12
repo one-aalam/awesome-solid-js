@@ -152,6 +152,7 @@ _more coming soon..._
 - _Coming Soon__ -->
 
 ### Apps/Websites
+- [Made in Solid](https://github.com/solidjs-community/made-in-solid#readme) - SolidJS Portfolio — What have people built with it?
 - [ambient-rvx.web.app](https://ambient-rvx.web.app/)
 - [artbyqreature.com](https://artbyqreature.com/)
 
