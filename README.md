@@ -299,7 +299,7 @@ _more coming soon..._
 - [Solid Knobs](https://github.com/tahti-studio/solid-knobs) - Primitives for building user-friendly controls with SolidJS
 - [Flowbite SolidJS](https://flowbite.com/docs/getting-started/solid-js/) - Open-source UI components based on Flowbite and Tailwind CSS
 - [Solid Material](https://github.com/ceopaludetto/solid-material)
-- [Tailwind Elemetns SolidJS](https://tailwind-elements.com/docs/standard/integrations/solid-integration/) - Integrate Solid application with Tailwind Elements
+- [Tailwind Elements SolidJS](https://tailwind-elements.com/docs/standard/integrations/solid-integration/) - Integrate Solid application with Tailwind Elements
 
 ### Authentication & Authorization
 
