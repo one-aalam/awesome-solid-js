@@ -56,6 +56,9 @@
 ### Conferences
 - _Coming Soon_
 
+### Online Courses
+- [Solid JS & Firebase - The Complete Guide (Twitter Clone App)](https://www.udemy.com/course/solid-js-firebase-the-complete-guide-twitter-clone-app/) - (**Udemy Course Paid**)
+
 ### 🗣️ Podcasts
 - [The Deep Dive Episode 4: Reactive frontend frameworks](https://www.youtube.com/watch?v=iyY1lT8-ZDA)
 - [React vs Svelte vs Solid & MicroFrontends | Ryan Carniato](https://show.nikoskatsikanis.com/episodes/ryan-carniato) On the hard choices all companies are facing right now with their websites, especially with the performance
