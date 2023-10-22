@@ -104,6 +104,7 @@ Ryan's in-depth streams on all things Solid & reactivity
 - [Solid + Wundergraph](https://github.com/verdavaine/solidgraph) - Build applications with SolidJs and WunderGraph
 - [create-solid-library](https://github.com/bluskript/create-solid-library) - Create a new Solid component library in seconds!
 - [Solid + Vite + Electron Starter](https://github.com/tgrassl/solid-vite-electron) - Build an Electron app with SolidJS
+- [DBEST Stack](https://github.com/itsyoboieltr/dbest-stack) - DrizzleORM, Bun, ElysiaJS, SolidStart, Tailwind CSS stack.
 
 ### Tutorials
 - [Learn Solid](https://www.solidjs.com/guide#learn-solid)(Official)
@@ -179,6 +180,7 @@ _more coming soon..._
 - [Solid Dismiss](https://github.com/aquaductape/solid-dismiss)
 - [Solid Ninja Keys](https://github.com/wobsoriano/solid-ninja-keys)
 - [Solid Tippy](https://github.com/lxsmnsyc/solid-tippy) ([NPM](https://www.npmjs.com/package/solid-tippy))
+- [Solid Floating UI](https://github.com/lxsmnsyc/solid-floating-ui)
 
 #### Layout
 - [Solid Split Pane](https://github.com/bluskript/solid-split-pane)
