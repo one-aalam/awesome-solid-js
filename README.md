@@ -305,6 +305,8 @@ _more coming soon..._
 - [Flowbite SolidJS](https://flowbite.com/docs/getting-started/solid-js/) - Open-source UI components based on Flowbite and Tailwind CSS
 - [Solid Material](https://github.com/ceopaludetto/solid-material)
 - [TW Elements SolidJS](https://tw-elements.com/docs/standard/integrations/solid-integration/) - Integrate Solid application with Open Source TW Elements - A free collection of  UI components, templates, sections & plugins for Tailwind CSS.
+- [Ark UI](https://ark-ui.com/) - Ark UI is a headless library for building reusable, scalable Design Systems that works for a wide range of JS frameworks.
+
 
 ### Authentication & Authorization
 
