@@ -206,6 +206,7 @@ _more coming soon..._
 - [Solid Flip](https://github.com/otonashixav/solid-flip)
 - [Solid Spring](https://github.com/Aslemammad/solid-spring)
 - [Solid MotionOne](https://motion.dev/solid/quick-start)
+- [AutoAnimate](https://auto-animate.formkit.com/#installation)
 
 <!-- #### Calendar -->
 #### Map
