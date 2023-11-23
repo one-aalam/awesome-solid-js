@@ -321,6 +321,7 @@ Re-usable behavioral code (like React hooks, or Vue composables for SolidJS)
 - [Solid Use](https://github.com/lxsmnsyc/solid-use) - A collection of SolidJS utilities
 - [Solid Immer](https://github.com/myWsq/solid-immer)
 - [Solid Proxies](https://github.com/Exelord/solid-proxies) - Solid.js library adding signaling to built-in non-primitives
+- [Solid Hooks](https://github.com/any-hooks/solid-hooks) - A high-quality & reliable Solid Hooks library.
 
 ### Querying/GraphQL
 - [Solid URQL](https://github.com/Acidic9/solid-urql)
