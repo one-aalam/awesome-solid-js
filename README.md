@@ -163,6 +163,10 @@ _more coming soon..._
 <!-- ### Enterprise Usage
 - _Coming Soon__ -->
 
+## 🛠️ Tooling
+
+- [bun-plugin-solid](https://github.com/DaniGuardiola/bun-plugin-solid) - A plugin to compile Solid.js with Bun.
+
 ## 📦 Components & Libraries
 
 ### UI Components
@@ -257,6 +261,7 @@ _more coming soon..._
 - [Solid-quiz](https://github.com/doldsimo/solid-quiz) - Simple quiz component
 
 #### Rich-Text Editor
+- [Lexical Solid](https://github.com/mosheduminer/lexical-solid)
 - [Solid Quill](https://github.com/amoutonbrady/solid-quill) ([NPM](https://www.npmjs.com/package/solid-quill))
 - [TipTap Solid](https://github.com/andi23rosca/tiptap-solid)
 - [Slate Solid](https://github.com/poudels14/slate-solid)
