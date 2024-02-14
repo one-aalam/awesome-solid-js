@@ -356,6 +356,7 @@ Re-usable behavioral code (like React hooks, or Vue composables for SolidJS)
 ### Storage
 - [Solid Cache](https://github.com/lxsmnsyc/solid-cache) - Resource caching in SolidJS
 - [Solid Dexie](https://github.com/faassen/solid-dexie) - Dexie(wrapper around IndexedDB) integration for Solid
+- [Fireproof](https://use-fireproof.com/) - Pure JS, zero dependency, CRDT database for SolidJS - runs in the browser and connects to any cloud or backend
 
 ### SSR
 - [Solid Start](https://github.com/solidjs/solid-start) - Official meta framework for SolidJS
