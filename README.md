@@ -201,7 +201,7 @@ _more coming soon..._
 - [Solid Slider](https://github.com/davedbase/solid-slider)
 
 #### Charts
-- [Solid Chart.js](https://github.com/MrFoxPro/solid-chart.js) ([NPM](https://www.npmjs.com/package/solid-chart.js))
+- [Solid Chart.js](https://github.com/s0ftik3/solid-chartjs) ([NPM](https://www.npmjs.com/package/solid-chartjs))
 - [Solid ApexCharts](https://github.com/wobsoriano/solid-apexcharts)
 
 #### Animation
