@@ -188,6 +188,7 @@ _more coming soon..._
 
 #### Layout
 - [Solid Split Pane](https://github.com/bluskript/solid-split-pane)
+- [solid-dockview](https://github.com/lyonbot/solid-dockview)
 
 #### Icons
 - [Unplugin Icons](https://github.com/antfu/unplugin-icons) ([NPM](https://www.npmjs.com/package/unplugin-icons))
