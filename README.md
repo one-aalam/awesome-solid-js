@@ -111,7 +111,7 @@ Ryan's in-depth streams on all things Solid & reactivity
 - [Solid.js for X developer](https://github.com/teknologi-umum/solidjs-for-x-developer). A brief guide for Vue, Svelte and React developers to Solid.js.
 
 ### Books
-- _Coming Soon__
+- [SolidJS: The Complete Guide by Sinan Polat](https://solid.courses/p/solidjs-the-complete-guide) A comprehensive guide to reactive web development with SolidJS and TypeScript.
 
 ### ✍️ Blog Posts
 #### The _Why's?_
