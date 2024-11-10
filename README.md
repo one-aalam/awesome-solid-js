@@ -206,7 +206,7 @@ _more coming soon..._
 
 #### Animation
 - [Solid Transition Group](https://github.com/solidjs/solid-transition-group)(official)
-- [Solid Particles - Particles, confetti, fireworks and more animations](https://github.com/matteobruni/tsparticles/tree/main/components/solid)
+- [Solid Particles - Particles, confetti, fireworks and more animations](https://github.com/tsparticles/solid)
 - [Solid Flip](https://github.com/otonashixav/solid-flip)
 - [Solid Spring](https://github.com/Aslemammad/solid-spring)
 - [Solid MotionOne](https://motion.dev/solid/quick-start)
