@@ -13,6 +13,7 @@
   - [Official Resources](#official-resources)
   - [External Resources](#external-resources)
   - [Community](#community)
+  - [Ecosystem](#ecosystem)
   - [Conferences](#conferences)
   - [Podcasts](#%EF%B8%8F-podcasts)
   - [Videos/Screencasts/Twitch](#-videosscreencaststwitch)
@@ -52,6 +53,9 @@
 - [Twitter](https://twitter.com/solid_js)
 - [Reddit](https://www.reddit.com/r/solidjs)
 - [Discord](https://discord.com/invite/solidjs)
+
+### Ecosystem
+- [Solid JS on StackTCO](https://www.stacktco.com/js/ecosystems/solid) Solid JS compatible npm packages directory on StackTCO
 
 ### Conferences
 - _Coming Soon_
