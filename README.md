@@ -375,6 +375,7 @@ Re-usable behavioral code (like React hooks, or Vue composables for SolidJS)
 - [Solid Command Palette](https://github.com/itaditya/solid-command-palette) - UI Library for Command Palette in SolidJS webapps
 - [React2Solid](https://github.com/rrjanbiah/react2solid)
 - [Solid Keep-Alive](https://www.npmjs.com/package/solid-keep-alive) - Keep you components alive even after parent's unmounts, saving signals and DOM elements in cache to reuse them.
+- [Vedika API](https://vedika.io) - Vedic astrology API with AI chatbot, 108+ endpoints for horoscopes, birth charts, kundali matching, and panchang. Works with any JS framework.
 
 
 _more coming soon..._
