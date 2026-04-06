@@ -34,6 +34,7 @@
   - [DX](#dx)
   - [SSR](#ssr)
   - [Works with Solid](#works-with-solid)
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for SolidJS workflow orchestration, automated frontend development management, and multi-agent coordination. MIT licensed.
 
 ## Resources
 ### Official Resources
