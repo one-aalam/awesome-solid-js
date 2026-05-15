@@ -325,6 +325,7 @@ Re-usable behavioral code (like React hooks, or Vue composables for SolidJS)
 - [Solid Signals](https://www.npmjs.com/package/solid-signals)
 - [Solid Request](https://github.com/NelsonYong/solid-request)
 - [Solid Use](https://github.com/lxsmnsyc/solid-use) - A collection of SolidJS utilities
+- [fluidity-ts](https://github.com/Fluidiety/fluidity-ts) - SSR-safe responsive toolkit with Solid.js signals — typed breakpoints, fluid clamp, container queries, dark mode. Zero deps.
 - [Solid Immer](https://github.com/myWsq/solid-immer)
 - [Solid Proxies](https://github.com/Exelord/solid-proxies) - Solid.js library adding signaling to built-in non-primitives
 - [Solid Hooks](https://github.com/any-hooks/solid-hooks) - A high-quality & reliable Solid Hooks library.
