@@ -262,6 +262,7 @@ _more coming soon..._
 - [Solid Forms](https://github.com/jorroll/solid-forms) - Making reusable form components easy and composable. Built upon solid-js/store.
 - [Solform](https://github.com/ragokan/solform) - Very lightweight and simply managed forms.
 - [Solid-quiz](https://github.com/doldsimo/solid-quiz) - Simple quiz component
+- [Formisch](https://formisch.dev/solid/guides/introduction/) - A form library with focus on performance, type safety and bundle size
 
 #### Rich-Text Editor
 - [Lexical Solid](https://github.com/mosheduminer/lexical-solid)
