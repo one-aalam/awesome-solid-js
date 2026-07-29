@@ -226,6 +226,8 @@ _more coming soon..._
 - [Solid DnD](https://solid-dnd.com/)
 - [Solid DND Directive](https://github.com/isaacHagoel/solid-dnd-directive)
 - [Neodrag](https://github.com/PuruVJ/neodrag) ([NPM](https://www.npmjs.com/package/@neodrag/solid))
+- [dnd kit](https://github.com/kachurun/dnd-kit-solid) - SolidJS adapter for [dnd kit](https://next.dndkit.com/)
+
 <!-- #### PDF -->
 <!-- #### Tree -->
 <!-- #### Graph -->
