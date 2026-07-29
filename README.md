@@ -166,6 +166,7 @@ _more coming soon..._
 ## 🛠️ Tooling
 
 - [bun-plugin-solid](https://github.com/DaniGuardiola/bun-plugin-solid) - A plugin to compile Solid.js with Bun.
+- [ArkEnv](https://github.com/yamcodes/arkenv) - Environment variable validation from editor to runtime, integrates with Solid and SolidStart via its Vite plugin.
 
 ## 📦 Components & Libraries
 
