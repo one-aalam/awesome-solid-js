@@ -58,6 +58,7 @@
 
 ### Online Courses
 - [Solid JS & Firebase - The Complete Guide (Twitter Clone App)](https://www.udemy.com/course/solid-js-firebase-the-complete-guide-twitter-clone-app/) - (**Udemy Course Paid**)
+- [SolidJS - Zero To Pro: The Complete Guide to SolidJS](https://www.udemy.com/course/solidjs-zero-to-pro/?couponCode=3724F697E5D2A5E0CF0A) - (**Udemy Course Paid**)
 
 ### 🗣️ Podcasts
 - [The Deep Dive Episode 4: Reactive frontend frameworks](https://www.youtube.com/watch?v=iyY1lT8-ZDA)
@@ -74,6 +75,7 @@
 - [Hottest React Competitor](https://www.youtube.com/watch?v=StLjM0Ki6iA)
 - [React vs SolidJS, Fight!](https://www.youtube.com/watch?v=OqcHoLWyyIw)
 - [Let's Learn SolidJS](https://www.youtube.com/watch?v=ZZ-a7B761Ds)
+- [State Management in SolidJS](https://www.youtube.com/playlist?list=PLgJ5pVIhNHY3wMBB5IcXXbGqwSqyM-ota)
 
 #### Ryan Streams
 Ryan's in-depth streams on all things Solid & reactivity
