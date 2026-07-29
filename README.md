@@ -317,6 +317,7 @@ _more coming soon..._
 - [TW Elements SolidJS](https://tw-elements.com/docs/standard/integrations/solid-integration/) - Integrate Solid application with Open Source TW Elements - A free collection of  UI components, templates, sections & plugins for Tailwind CSS.
 - [Ark UI](https://ark-ui.com/) - Ark UI is a headless library for building reusable, scalable Design Systems that works for a wide range of JS frameworks.
 - [Mystic UI](https://mystic-ui.vercel.app/) - Cool and beautiful animated components, crafted with Tailwind / PandaCSS and Motion One. Unofficial port of Magic UI for Solid.
+- [FlyonUI](https://flyonui.com/) - FlyonUI with SolidJS and Tailwind CSS to create a modern, responsive UI, simplifying your development workflow with ease.
 
 ### Authentication & Authorization
 
