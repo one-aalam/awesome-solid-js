@@ -277,6 +277,7 @@ _more coming soon..._
 - [Solid App Router](https://github.com/solidjs/solid-app-router)(official)
 - [Solid Typefu Router5](https://github.com/mikeplus64/solid-typefu-router5)
 - [Solid Tiny Router](https://github.com/LXSMNSYC/solid-tiny-router) - Tiny routing library for SolidJS
+- [Ufbr](https://github.com/zakarialaoui10/ufbr) - An Universal File Based Router with SolidJS support.
 
 ### SEO
 - [Solid Meta](https://github.com/solidjs/solid-meta)(official)
