@@ -256,6 +256,7 @@ _more coming soon..._
 
 #### Misc
 - [Solid Readotron](https://github.com/untemps/solid-readotron) ([NPM](https://www.npmjs.com/package/@untemps/solid-readotron))
+- [Solid Route Progress](https://github.com/kecan0406/solid-route-progress) ([NPM](https://www.npmjs.com/package/solid-route-progress)) - Route progress bar for SolidJS and SolidStart: the thin loading bar along the top of the page, drawn with one CSS transition
 
 ### Form
 - [Felte](https://github.com/pablo-abc/felte)
