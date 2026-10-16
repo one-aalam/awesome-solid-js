@@ -355,6 +355,7 @@ Re-usable behavioral code (like React hooks, or Vue composables for SolidJS)
 - [Solid SFC(Experimental)](https://github.com/LXSMNSYC/solid-sfc) - Experimental SFC compiler for SolidJS
 - [vite-plugin-inline-css-modules](https://github.com/Bluskript/vite-plugin-inline-css-modules) - Zero runtime plugin to write CSS modules inside of component files
 - [LocatorJS](https://github.com/infi-pc/locatorjs) - Click on any component to go to it's code. (it's also built with SolidJS)
+- [ide-byebye](https://github.com/bo-516/ide-byebye) - Click an element in the browser, describe the change, and send its exact source location to AI coding agents such as Claude Code, Codex and Cursor
 
 ### Styling
 - [Solid Styled](https://github.com/LXSMNSYC/solid-styled) - Reactive stylesheets for SolidJS
