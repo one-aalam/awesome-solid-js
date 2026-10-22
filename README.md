@@ -197,6 +197,7 @@ _more coming soon..._
 - [Solid HeroIcons](https://github.com/amoutonbrady/solid-heroicons) ([NPM](https://www.npmjs.com/package/@amoutonbrady/solid-heroicons))
 - [Solid SVG](https://github.com/jfgodoy/vite-plugin-solid-svg) ([NPM](https://www.npmjs.com/package/vite-plugin-solid-svg))
 - [Phosphor Solid](https://www.npmjs.com/package/phosphor-solid)
+- [Aria Icons](https://github.com/LeulAria/Aria-Icons) ([NPM](https://www.npmjs.com/package/aria-icons))
 
 <!-- #### Menu -->
 #### Carousel
