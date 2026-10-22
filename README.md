@@ -286,6 +286,7 @@ _more coming soon..._
 - [Solid Primitives — i18n](https://github.com/solidjs-community/solid-primitives/tree/main/packages/i18n#readme) - Library of internationalisation primitives.
 - [Typesafe i18n](https://github.com/ivanhofer/typesafe-i18n/tree/main/packages/adapter-solid) - SolidJS adapter for [typesafe-i18n](https://github.com/ivanhofer/typesafe-i18n)
 - [i18n-pro/solid](https://github.com/i18n-pro/solid) - Lightweight, simple, flexible, automatic translation internationalization tool for Solid
+- [@comvi/solid](https://github.com/comvi-io/comvi-js/tree/main/packages/solid) - SolidJS i18n with type-checked keys, ICU plurals and a `<T>` component for markup inside translations.
 
 ### State Management
 - [Solid Zustand](https://github.com/wobsoriano/solid-zustand)
