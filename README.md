@@ -320,6 +320,7 @@ _more coming soon..._
 - [Ark UI](https://ark-ui.com/) - Ark UI is a headless library for building reusable, scalable Design Systems that works for a wide range of JS frameworks.
 - [Mystic UI](https://mystic-ui.vercel.app/) - Cool and beautiful animated components, crafted with Tailwind / PandaCSS and Motion One. Unofficial port of Magic UI for Solid.
 - [FlyonUI](https://flyonui.com/) - FlyonUI with SolidJS and Tailwind CSS to create a modern, responsive UI, simplifying your development workflow with ease.
+- [moduix](https://moduix.dev/) - Accessible SolidJS components built on Ark UI, with CSS Modules or Tailwind CSS and installation through npm or the shadcn CLI.
 
 ### Authentication & Authorization
 
