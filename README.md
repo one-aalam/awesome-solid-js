@@ -151,6 +151,7 @@ Ryan's in-depth streams on all things Solid & reactivity
 - [Codeimage.dev](https://github.com/riccardoperra/codeimage) - Create elegant screenshots of your source code. Built with SolidJS
 - [Bloki.app](https://github.com/MrFoxPro/bloki) - Blocks-based collaborative editor
 - [Tura](https://github.com/Tura-AI/tura) - Tura is a local, open-source coding agent for developers who are tired of vague skill claims, token-saving extensions with no evidence, and agents that change a repository before understanding it. Its desktop GUI is built with SolidJS.
+- [Sarala](https://github.com/solancer/sarala) - WYSIWYG Markdown editor for desktop and the browser that renders as you type. Built with SolidJS
 _more coming soon..._
 
 <!-- ### Commercial Products
