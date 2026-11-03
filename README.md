@@ -168,6 +168,7 @@ _more coming soon..._
 
 - [bun-plugin-solid](https://github.com/DaniGuardiola/bun-plugin-solid) - A plugin to compile Solid.js with Bun.
 - [ArkEnv](https://github.com/yamcodes/arkenv) - Environment variable validation from editor to runtime, integrates with Solid and SolidStart via its Vite plugin.
+- [GenClass](https://github.com/genclass-dev/GenClass) - Reports race conditions in a Solid app while they happen with a small on-device model; one import, and observe mode never changes a request or a state write.
 
 ## 📦 Components & Libraries
 
