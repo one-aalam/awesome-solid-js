@@ -339,6 +339,7 @@ Re-usable behavioral code (like React hooks, or Vue composables for SolidJS)
 - [Solid URQL](https://github.com/Acidic9/solid-urql)
 - [TanStack Solid Query](https://tanstack.com/query/v4) ([NPM](https://www.npmjs.com/package/@tanstack/solid-query))
 - [@stitchapi/solid](https://github.com/rejifald/StitchAPI/tree/main/packages/solid) ([NPM](https://www.npmjs.com/package/@stitchapi/solid)) - Streaming-first StitchAPI bindings: typed, validated `createStitch` / `createStitchStream` primitives that reconcile a Solid store as response deltas arrive.
+- [oRPC](https://github.com/middleapi/orpc) ([NPM](https://www.npmjs.com/package/@orpc/tanstack-query)) - End-to-end typesafe APIs with a TanStack Solid Query integration.
 
 ### Testing
 - [Solid Jest](https://github.com/solidjs/solid-jest)(official)
