@@ -190,6 +190,7 @@ _more coming soon..._
 
 #### Layout
 - [Solid Split Pane](https://github.com/bluskript/solid-split-pane)
+- [fold.js](https://github.com/christophe77/fold.js) - Foldable phone support (`@foldjs/solid`): hinge and posture detection, two-pane layouts, built-in simulator
 
 #### Icons
 - [Unplugin Icons](https://github.com/antfu/unplugin-icons) ([NPM](https://www.npmjs.com/package/unplugin-icons))
