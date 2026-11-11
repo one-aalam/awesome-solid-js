@@ -213,6 +213,7 @@ _more coming soon..._
 - [Solid Spring](https://github.com/Aslemammad/solid-spring)
 - [Solid MotionOne](https://motion.dev/solid/quick-start)
 - [AutoAnimate](https://auto-animate.formkit.com/#installation)
+- [svg-scroll-draw](https://svg-scroll-draw.vercel.app/solid-scroll-animation) - Scroll-driven SVG drawing, reveals and split text for Solid
 
 <!-- #### Calendar -->
 #### Map
