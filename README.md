@@ -219,6 +219,7 @@ _more coming soon..._
 - [Solid MapGL](https://github.com/GIShub4/solid-map-gl)
 <!-- #### Audio / Video -->
 #### Markdown
+- [Markstream Solid](https://github.com/Simon-He95/markstream-vue/tree/main/packages/markstream-solid) - Streaming Markdown renderer for SolidJS, with Mermaid and KaTeX support
 - [Solid Markdown](https://github.com/andi23rosca/solid-markdown) - Render Markdown as Solid components
 - [Solid MDX](https://github.com/high1/solid-jsx)
 
