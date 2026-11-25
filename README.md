@@ -174,6 +174,7 @@ _more coming soon..._
 ### UI Components
 
 #### Table
+- [Simple Table](https://github.com/petera2c/simple-table) ([NPM](https://www.npmjs.com/package/@simple-table/solid)) - MIT licensed Solid data grid with sorting, filtering, pinning and virtualization
 - [Solid Simple Table](https://github.com/aminya/solid-simple-table) ([NPM](https://www.npmjs.com/package/solid-simple-table))
 - [Solid Table](https://github.com/mokshit06/solid-table) ([NPM](https://www.npmjs.com/package/@tanstack/solid-table))
 - [TanStack Solid Table](https://tanstack.com/table) ([NPM](https://www.npmjs.com/package/@tanstack/solid-table))
