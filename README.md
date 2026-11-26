@@ -39,14 +39,13 @@
 ### Official Resources
 - [Official Guide](https://www.solidjs.com/guide)
 - [Official Tutorial](https://www.solidjs.com/tutorial)
-- [API Reference](https://www.solidjs.com/docs/latest/api)
 - [GitHub Repo](https://github.com/solidjs/solid)
 - [Release Notes](https://github.com/solidjs/solid/releases)
 - [Resource Index](https://www.solidjs.com/resources)
 - [Playground](https://github.com/solidjs/solid-playground)
 
 ### External Resources
-- _Coming Soon_
+- [Swavent Guides](https://swavent.com/en/guides) - Free Shopify, ecommerce, SEO and web development guides
 
 ### Community
 - [Twitter](https://twitter.com/solid_js)
@@ -99,7 +98,6 @@ Ryan's in-depth streams on all things Solid & reactivity
 
 #### Starter Kits
 - [Solid Templates](https://github.com/solidjs/templates)(official)
-- [Vite + Solid + TailwindCSS Starter](https://github.com/wobsoriano/vite-solid-tailwind-starter)
 - [Solid + Supabase Starter Kit](https://github.com/one-aalam/solid-starter-kit) - Solid + Supabase Starter Kit is an opinionated boilerplate, with all the bells and whistles you want ready, up and running when starting a SolidJS project with Supabase
 - [Solid + Wundergraph](https://github.com/verdavaine/solidgraph) - Build applications with SolidJs and WunderGraph
 - [create-solid-library](https://github.com/bluskript/create-solid-library) - Create a new Solid component library in seconds!
@@ -125,7 +123,6 @@ Ryan's in-depth streams on all things Solid & reactivity
 - [The Real Cost of UI Components Revisited](https://dev.to/this-is-learning/the-real-cost-of-ui-components-revisited-4d23)
 - [Solid - The best JavaScript UI library?](https://areknawo.com/solid-the-best-javascript-ui-library/)
 - [How we wrote the Fastest JavaScript UI Framework, Again!](https://levelup.gitconnected.com/how-we-wrote-the-fastest-javascript-ui-framework-again-db097ddd99b6)
-- [The Journey to Isomorphic Rendering Performance](https://indepth.dev/posts/1324/the-journey-to-isomorphic-rendering-performance)
 - [5 Ways SolidJS Differs from Other JS Frameworks](https://dev.to/ryansolid/5-ways-solidjs-differs-from-other-js-frameworks-1g63)
 - [A Hands-on Introduction to Fine-Grained Reactivity](https://dev.to/ryansolid/a-hands-on-introduction-to-fine-grained-reactivity-3ndf)
 - [Building a Reactive Library from Scratch](https://dev.to/ryansolid/building-a-reactive-library-from-scratch-1i0p)
@@ -184,7 +181,6 @@ _more coming soon..._
 #### Overlay
 - [Solid Popper](https://github.com/lxsmnsyc/solid-popper)
 - [Solid Dismiss](https://github.com/aquaductape/solid-dismiss)
-- [Solid Ninja Keys](https://github.com/wobsoriano/solid-ninja-keys)
 - [Solid Tippy](https://github.com/lxsmnsyc/solid-tippy) ([NPM](https://www.npmjs.com/package/solid-tippy))
 - [Solid Floating UI](https://github.com/lxsmnsyc/solid-floating-ui)
 
@@ -297,7 +293,6 @@ _more coming soon..._
 
 ### Web Components
 
-- [Solid Element](https://github.com/solidjs/solid/tree/main/packages/solid-element) - Library for authoring web components with SolidJS.
 - [Lume Element](https://github.com/lume/element) - Fast and simple custom elements
 
 ### Frameworks & Component Libraries
@@ -373,7 +368,6 @@ Re-usable behavioral code (like React hooks, or Vue composables for SolidJS)
 ### Works with Solid
 - [Astro](https://astro.build/)
 - [Mitosis](https://github.com/BuilderIO/mitosis)([playground](https://mitosis.builder.io/?outputTab=solid))
-- [Vite Plugin - SSR](https://vite-plugin-ssr.com/)([Solid Example](https://github.com/brillout/vite-plugin-ssr/tree/master/examples/solid))
 
 ### Misc.
 - [Solid Giphy](https://github.com/lxsmnsyc/solid-giphy)
